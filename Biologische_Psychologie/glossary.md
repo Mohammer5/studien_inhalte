@@ -1,65 +1,65 @@
 # Index
 
-### [Kapitel 1](#kapitel-1)
-[Gruppen](#kapitel-1-gruppen)<br />
-[Definitionen](#kapitel-1-definitionen)<br />
-### [Kapitel 2](#kapitel-2)
-[Konzepte](#kapitel-2-konzepte)<br />
-[Gruppen](#kapitel-2-gruppen)<br />
-[Definitionen](#kapitel-2-definitionen)<br />
-### [Kapitel 3](#kapitel-3)
-[Systeme](#kapitel-3-systeme)<br />
-[Konzepte](#kapitel-3-konzepte)<br />
-[Gruppen](#kapitel-3-gruppen)<br />
-[Definitionen](#kapitel-3-definitionen)<br />
-### [Kapitel 4](#kapitel-4)
-[Konzepte](#kapitel-4-konzepte)<br />
-[Gruppen](#kapitel-4-gruppen)<br />
-[Definitionen](#kapitel-4-definitionen)<br />
-### [Kapitel 5](#kapitel-5)
-[Systeme](#kapitel-5-systeme)<br />
-[Konzepte](#kapitel-5-konzepte)<br />
-[Gruppen](#kapitel-5-gruppen)<br />
-[Definitionen](#kapitel-5-definitionen)<br />
-### [Kapitel 6](#kapitel-6)
-[Konzepte](#kapitel-6-konzepte)<br />
-[Definitionen](#kapitel-6-definitionen)<br />
-### [Kapitel 7](#kapitel-7)
-[Konzepte](#kapitel-7-konzepte)<br />
-[Gruppen](#kapitel-7-gruppen)<br />
-[Definitionen](#kapitel-7-definitionen)<br />
-### [Kapitel 8](#kapitel-8)
-[Systeme](#kapitel-8-systeme)<br />
-[Konzepte](#kapitel-8-konzepte)<br />
-[Gruppen](#kapitel-8-gruppen)<br />
-[Definitionen](#kapitel-8-definitionen)<br />
-### [Kapitel 9](#kapitel-9)
-[Systeme](#kapitel-9-systeme)<br />
-[Konzepte](#kapitel-9-konzepte)<br />
-[Definitionen](#kapitel-9-definitionen)<br />
-### [Kapitel 10](#kapitel-10)
-[Systeme](#kapitel-10-systeme)<br />
-[Konzepte](#kapitel-10-konzepte)<br />
-[Definitionen](#kapitel-10-definitionen)<br />
-### [Kapitel 11](#kapitel-11)
-[Systeme](#kapitel-11-systeme)<br />
-[Konzepte](#kapitel-11-konzepte)<br />
-[Gruppen](#kapitel-11-gruppen)<br />
-[Definitionen](#kapitel-11-definitionen)<br />
-### [Kapitel 12](#kapitel-12)
-[Konzepte](#kapitel-12-konzepte)<br />
-[Forschungsergebnisse](#kapitel-12-forschungsergebnisse)<br />
-[Definitionen](#kapitel-12-definitionen)
+* [Kapitel 1](#kapitel-1)
+  * [Gruppen](#kapitel-1-gruppen)<br />
+  * [Definitionen](#kapitel-1-definitionen)<br />
+* [Kapitel 2](#kapitel-2)
+  * [Konzepte](#kapitel-2-konzepte)<br />
+  * [Gruppen](#kapitel-2-gruppen)<br />
+  * [Definitionen](#kapitel-2-definitionen)<br />
+* [Kapitel 3](#kapitel-3)
+  * [Systeme](#kapitel-3-systeme)<br />
+  * [Konzepte](#kapitel-3-konzepte)<br />
+  * [Gruppen](#kapitel-3-gruppen)<br />
+  * [Definitionen](#kapitel-3-definitionen)<br />
+* [Kapitel 4](#kapitel-4)
+  * [Konzepte](#kapitel-4-konzepte)<br />
+  * [Gruppen](#kapitel-4-gruppen)<br />
+  * [Definitionen](#kapitel-4-definitionen)<br />
+* [Kapitel 5](#kapitel-5)
+  * [Systeme](#kapitel-5-systeme)<br />
+  * [Konzepte](#kapitel-5-konzepte)<br />
+  * [Gruppen](#kapitel-5-gruppen)<br />
+  * [Definitionen](#kapitel-5-definitionen)<br />
+* [Kapitel 6](#kapitel-6)
+  * [Konzepte](#kapitel-6-konzepte)<br />
+  * [Definitionen](#kapitel-6-definitionen)<br />
+* [Kapitel 7](#kapitel-7)
+  * [Konzepte](#kapitel-7-konzepte)<br />
+  * [Gruppen](#kapitel-7-gruppen)<br />
+  * [Definitionen](#kapitel-7-definitionen)<br />
+* [Kapitel 8](#kapitel-8)
+  * [Systeme](#kapitel-8-systeme)<br />
+  * [Konzepte](#kapitel-8-konzepte)<br />
+  * [Gruppen](#kapitel-8-gruppen)<br />
+  * [Definitionen](#kapitel-8-definitionen)<br />
+* [Kapitel 9](#kapitel-9)
+  * [Systeme](#kapitel-9-systeme)<br />
+  * [Konzepte](#kapitel-9-konzepte)<br />
+  * [Definitionen](#kapitel-9-definitionen)<br />
+* [Kapitel 10](#kapitel-10)
+  * [Systeme](#kapitel-10-systeme)<br />
+  * [Konzepte](#kapitel-10-konzepte)<br />
+  * [Definitionen](#kapitel-10-definitionen)<br />
+* [Kapitel 11](#kapitel-11)
+  * [Systeme](#kapitel-11-systeme)<br />
+  * [Konzepte](#kapitel-11-konzepte)<br />
+  * [Gruppen](#kapitel-11-gruppen)<br />
+  * [Definitionen](#kapitel-11-definitionen)<br />
+* [Kapitel 12](#kapitel-12)
+  * [Konzepte](#kapitel-12-konzepte)<br />
+  * [Forschungsergebnisse](#kapitel-12-forschungsergebnisse)<br />
+  * [Definitionen](#kapitel-12-definitionen)
 
 # Kapitel
 
-## Kapitel 1<a name="kapitel-1"></a>
+## Kapitel 1
 
-### Gruppen<a name="kapitel-1-gruppen"><a>
+### Kapitel 1 Gruppen
 
 * Mikroglia
 
-### Definitionen<a name="kapitel-1-definitionen"><a>
+### Kapitel 1 Definitionen
 
 * Astroglia
 
@@ -104,9 +104,9 @@
 * Synapse
 * Synaptischer Spalt
 
-## Kapitel 2<a name="kapitel-2"></a>
+## Kapitel 2
 
-### Konzepte<a name="kapitel-2-konzepte"><a>
+### Kapitel 2 Konzepte
 
 * Aktionspotenzial: Entstehung & Verlauf
   * Postsynapitsche Depolarisation schickt AP der vorherigen Zelle durch Dendriten, dann das Soma bis zum Axonhügel
@@ -116,12 +116,12 @@
   * Außerdem öffnen sich spannungsabhängige K+ Kanäle, durch die die Zelle repolarisiert wird, bis zur Hyperpolarisation
   * Bis die Hyperpolarisation erreicht ist, können die Na+ Kanäle nicht erneut aktiviert werden, sie befinden sich in der Refraktärzeit
 
-### Gruppen<a name="kapitel-2-gruppen"><a>
+### Kapitel 2 Gruppen
 
 * Ionen
 * Ionenkanäle (Schwellenwert)
 
-### Definitionen<a name="kapitel-2-definitionen"><a>
+### Kapitel 2 Definitionen
 
 * Aktionspotenzial
 * Depolarisation
@@ -144,13 +144,13 @@
 * Tetrodotoxin
 * Zellmembran
 
-## Kapitel 3<a name="kapitel-3"></a>
+## Kapitel 3
 
-### Systeme<a name="kapitel-3-systeme"><a>
+### Kapitel 3 Systeme
 
 * Dopaminerges Projektionssystem
 
-### Konzepte<a name="kapitel-3-konzepte"><a>
+### Kapitel 3 Konzepte
 
 * Biochemische Kaskade der Metabotrope Rezeptoren
 * PMT & Acetylcholin
@@ -159,14 +159,14 @@
 * Vesikel: Unterschied hell & dunkel
 * Übertragung eines Aktionspotenzials an der Synapse
 
-### Gruppen<a name="kapitel-3-gruppen"><a>
+### Kapitel 3 Gruppen
 
 * Neurotransmitter
 * Neurotransmitter-Gruppen
 * Rezeptor-Arten (iono- & metabotrop)
 * Rezeptoren
 
-### Definitionen<a name="kapitel-3-definitionen"><a>
+### Kapitel 3 Definitionen
 
 * Alzheimer-Demenz
 * Bahn: Mesocorticale
@@ -203,18 +203,18 @@
 * Vesikel
 * Vesikel-Wartehaltung
 
-## Kapitel 4<a name="kapitel-4"></a>
+## Kapitel 4
 
-### Konzepte<a name="kapitel-4-konzepte"><a>
+### Kapitel 4 Konzepte
 
 * Topografische Zusammenhänge zw. Thalamus & Cortex (K4)
 * Kreislauf zw. Basalganglien & Cortex (K4)
 
-### Gruppen<a name="kapitel-4-gruppen"><a>
+### Kapitel 4 Gruppen
 
 * Laben des cerebralen Cortex
 
-### Definitionen<a name="kapitel-4-definitionen"><a>
+### Kapitel 4 Definitionen
 
 * ARAS
 * Amygdala
@@ -277,9 +277,9 @@
 * Zentrales Nervensystem
 * Zwirbeldrüse
 
-## Kapitel 5<a name="kapitel-5"></a>
+## Kapitel 5
 
-### Systeme<a name="kapitel-5-systeme"><a>
+### Kapitel 5 Systeme
 
 * Ursprung & aufteilung der synaptischen Eingänge des GLd (K5)
 * Anatomischer Pfad zum Cortex, der für Blindsehen verantwortlich ist (K5)
@@ -287,7 +287,7 @@
 * Zwei parallele anatomische Systeme, die visuelle Informationen zum Cortex transportieren (K5)
 * Komponenten & Aufbau des Geruchsgedächtnisses (K5)
 
-### Konzepte<a name="kapitel-5-konzepte"><a>
+### Kapitel 5 Konzepte
 
 * Aufmerksamkeitsverschiebung (K5)
 * Corticale Beeinflussung der thalamischen Verarbeitung (K5)
@@ -299,11 +299,11 @@
 * Bottom-up Verarbeitung (K5)
 * Verzerrte Landkarte der Sinne (K5)
 
-### Gruppen<a name="kapitel-5-gruppen"><a>
+### Kapitel 5 Gruppen
 
 * Multimodale Areale
 
-### Definitionen<a name="kapitel-5-definitionen"><a>
+### Kapitel 5 Definitionen
 
 * Agnosie (visuell)
 * Blindsehen
@@ -341,9 +341,9 @@
 * tonotop
 * Äquidistante Abbildung
 
-## Kapitel 6<a name="kapitel-6"></a>
+## Kapitel 6
 
-### Konzepte<a name="kapitel-6-konzepte"><a>
+### Kapitel 6 Konzepte
 
 * Dopaminerge Rückmeldung (K6)
 * LFP & EEG und das Wechseln der Zugehörigkeit eine Neurons zwischen Ensembles (K6)
@@ -357,7 +357,7 @@
 * Anteroposteriore Achse des PFC: Überwachung zeitgleichablaufender Prozesse (K6)
 * Anteroposteriore Achse des PFC: Rekursive Kontrolle gleichzeitigablaufender übergeordneter präfrontaler Prozesse (K6)
 
-### Definitionen<a name="kapitel-6-definitionen"><a>
+### Kapitel 6 Definitionen
 
 * Anteroposterior
 * EEG
@@ -370,9 +370,9 @@
 * Somatischer Marker
 * Temporal-Difference-Learning-Theory
 
-## Kapitel 7<a name="kapitel-7"></a>
+## Kapitel 7
 
-### Konzepte<a name="kapitel-7-konzepte"><a>
+### Kapitel 7 Konzepte
 
 * Kontrolle, woran man sich erinnert (K7)
 * Neuronaler Prozess: Neocortex-basierter Abruf (K7)
@@ -388,11 +388,11 @@
 * Enstehung des deklarativen Langzeitgedächtnisses (K7)
 * Rolle des Hippocampus bei der Überführung von Informationen ins Langzeitgedächtnis (K7)
 
-### Gruppen<a name="kapitel-7-gruppen"><a>
+### Kapitel 7 Gruppen
 
 * Assoziativ-sensorische Areale
 
-### Definitionen<a name="kapitel-7-definitionen"><a>
+### Kapitel 7 Definitionen
 
 * Amnesie: Anterograd
 * Amnesie: Retrograd
@@ -418,14 +418,14 @@
 * Standard-Konsolidierungs-Theorie
 * Wissen
 
-## Kapitel 8<a name="kapitel-8"></a>
+## Kapitel 8
 
-### Systeme<a name="kapitel-8-systeme"><a>
+### Kapitel 8 Systeme
 
 * Olfaktorisches System
 * Verantwortliche Teile und Projektionen beim prozeduralen Lernen (K8)
 
-### Konzepte<a name="kapitel-8-konzepte"><a>
+### Kapitel 8 Konzepte
 
 * Kreislauf von Projektionen bei prozeduralem Lernen (K8, S. 168)
 * Prozedurales Gedächtnis und Basalganglien (K8)
@@ -441,11 +441,11 @@
 * Prozedurales Lernen: Phase der Exploration (K8)
 * Drei Stufen der Konsolidierung (K8)
 
-### Gruppen<a name="kapitel-8-gruppen"><a>
+### Kapitel 8 Gruppen
 
 * Drei Formen des prozeduralen Gedächtnisses (K8)
 
-### Definitionen<a name="kapitel-8-definitionen"><a>
+### Kapitel 8 Definitionen
 
 * Cerebellum
 * Gollin Figurentest
@@ -467,19 +467,19 @@
 * Win-shift-Strategie
 * Win-stay-Strategie
 
-## Kapitel 9<a name="kapitel-9"></a>
+## Kapitel 9
 
-### Systeme<a name="kapitel-9-systeme"><a>
+### Kapitel 9 Systeme
 
 * Neuroanatomie von Aggression (K9)
 * Limbisches System (Komponenten & Projektionen; hemmen?) (K9)
 * Anatomie der Amygdala (K9)
 
-#### Darstellung
+#### Kapitel 9 Darstellung
 
 ![Limbisches System](./assets/Schaltkreis_limbisches_system.jpg)
 
-### Konzepte<a name="kapitel-9-konzepte"><a>
+### Kapitel 9 Konzepte
 
 * Unterscheidung zwischen Beutefang und aggressivem Verhalten (und warum diese sich ausschließen) (K9)
 * Verhaltensänderungen durch Amygdala-Läsionen (K9)
@@ -494,16 +494,16 @@
 * Regulation von aggressivem Verhalten (K9)
 * Unterschied zwischen Emotionen und Gefuehlen (K9)
 
-### Definitionen<a name="kapitel-9-definitionen"><a>
+### Kapitel 9 Definitionen
 
 * Afferenzen
 * High road (cortical)
 * Low road (amygdala)
 * Urbach-Wiethe-Syndrom
 
-## Kapitel 10<a name="kapitel-10"></a>
+## Kapitel 10
 
-### Systeme<a name="kapitel-10-systeme"><a>
+### Kapitel 10 Systeme
 
 * Drei Eingänge zum VTA im Belohnungssystem (K10)
 * Drei Eingänge zum VTA im Belohnungssystem - Acetylcholinger Eingang (K10)
@@ -512,7 +512,7 @@
 * Mesolimbisches System (Komponenten & Projektionen; hemmen?) (K10)
 * Rezeptoren des VTA und Nucleus accumbens im mesolibischen System (K10)
 
-### Konzepte<a name="kapitel-10-konzepte"><a>
+### Kapitel 10 Konzepte
 
 * Verschiebung der Ausschüttung von Dopamin im Laufe des Lernprozesses der klassischen Konditionierung (K10)
 * Netzwerk für Sucht (Handlungsmuster) (K10)
@@ -531,7 +531,7 @@
 * Entstehung von Belohnung im Nucleus Accumbens (K10)
 * Veränderung der Projektionen vom VTA zum Nucleus Accumbens bei Sucht (K10)
 
-### Definitionen<a name="kapitel-10-definitionen"><a>
+### Kapitel 10 Definitionen
 
 * Blut-Hirn-Schranke
 * Dorsales Striatum
@@ -543,14 +543,14 @@
 * Pawlowsche Konditionierung
 * Ventrales Striatum
 
-## Kapitel 11<a name="kapitel-11"></a>
+## Kapitel 11
 
-### Systeme<a name="kapitel-11-systeme"><a>
+### Kapitel 11 Systeme
 
 * Das volumetrische System (K11)
 * Das osmomische System (K11)
 
-### Konzepte<a name="kapitel-11-konzepte"><a>
+### Kapitel 11 Konzepte
 
 * Reaktion auf geringe Menge an Blut in der Niere durch Blutverlust (K11)
 * Nutzung des osmotischen Systems durch das volumetrische System (K11)
@@ -572,11 +572,11 @@
 * Ablauf zur Erstellung langfristiger Reserven (??) (K11)
 * Ablauf für kurzfristige Speicherung von Energie aus Nahrung (??) (K11)
 
-### Gruppen<a name="kapitel-11-gruppen"><a>
+### Kapitel 11 Gruppen
 
 * Faktoren für Sättigungsgefühl (K11)
 
-### Definitionen<a name="kapitel-11-definitionen"><a>
+### Kapitel 11 Definitionen
 
 * Angotensin II
 * Barorezeptoren
@@ -592,9 +592,9 @@
 * Vasopressin
 * Vesikel-Hirn-Schranke
 
-## Kapitel 12<a name="kapitel-12"></a>
+## Kapitel 12
 
-### Konzepte<a name="kapitel-12-konzepte"><a>
+### Kapitel 12 Konzepte
 
 * Affengeschlecht und geschlechtsspezifische Auswahl von Menschenspielzeug (K12)
 * Biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede (K12)
@@ -608,7 +608,7 @@
 * Rot-Grün-Schwäche bei Männern häufiger als bei Frauen, da Gene nur auf X-Chromosom (K12)
 * Unterschied zwischen Gender und Geschlecht: Geschlecht: Biologisch, Gender: Selbstbild, Geschlechtstypisches Rollenverhalten, Gesellschaftliche Dimension des Weiblichen und Männlichen (K12)
 
-### Forschungsresultate<a name="kapitel-12-forschungsresultate"><a>
+### Kapitel 12 Forschungsresultate
 
 * Räumliche Leistung beim Hormontherapie zur Geschlechtsumwandlung wird nur bei FzM Gruppe besser (K12)
 * Kognitive Geschlechtsunterschiede (K12)
@@ -618,7 +618,7 @@
 * Männer haben größeres Gehirnvolumen (K12)
 * Abwesenheit von sowohl männlichen als auch weiblichen Hormonen, wird das Kind zu einer Frau (K12)
 
-### Definitionen<a name="kapitel-12-definitionen"><a>
+### Kapitel 12 Definitionen
 
 * Androgene
 * Androgenresistenz
