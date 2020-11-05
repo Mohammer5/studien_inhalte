@@ -207,8 +207,8 @@
 
 ### Kapitel 4 Konzepte
 
-* Topografische Zusammenhänge zw. Thalamus & Cortex (K4)
-* Kreislauf zw. Basalganglien & Cortex (K4)
+* Topografische Zusammenhänge zw. Thalamus & Cortex
+* Kreislauf zw. Basalganglien & Cortex
 
 ### Kapitel 4 Gruppen
 
@@ -281,23 +281,23 @@
 
 ### Kapitel 5 Systeme
 
-* Ursprung & aufteilung der synaptischen Eingänge des GLd (K5)
-* Anatomischer Pfad zum Cortex, der für Blindsehen verantwortlich ist (K5)
-* Anatomischer Pfad zum Cortex für visuelle Leistung und bewusstes Sehen (K5)
-* Zwei parallele anatomische Systeme, die visuelle Informationen zum Cortex transportieren (K5)
-* Komponenten & Aufbau des Geruchsgedächtnisses (K5)
+* Ursprung & aufteilung der synaptischen Eingänge des GLd
+* Anatomischer Pfad zum Cortex, der für Blindsehen verantwortlich ist
+* Anatomischer Pfad zum Cortex für visuelle Leistung und bewusstes Sehen
+* Zwei parallele anatomische Systeme, die visuelle Informationen zum Cortex transportieren
+* Komponenten & Aufbau des Geruchsgedächtnisses
 
 ### Kapitel 5 Konzepte
 
-* Aufmerksamkeitsverschiebung (K5)
-* Corticale Beeinflussung der thalamischen Verarbeitung (K5)
-* Synptische Umschaltung im Thalamus (K5)
-* Multimodale Funktion des Präfrontalcortex (K5)
-* Multimodale Funktion des Parietalcortex (K5)
-* Multimodale Funktion des Temporalcortex (K5)
-* Top-down Verarbeitung (K5)
-* Bottom-up Verarbeitung (K5)
-* Verzerrte Landkarte der Sinne (K5)
+* Aufmerksamkeitsverschiebung
+* Corticale Beeinflussung der thalamischen Verarbeitung
+* Synptische Umschaltung im Thalamus
+* Multimodale Funktion des Präfrontalcortex
+* Multimodale Funktion des Parietalcortex
+* Multimodale Funktion des Temporalcortex
+* Top-down Verarbeitung
+* Bottom-up Verarbeitung
+* Verzerrte Landkarte der Sinne
 
 ### Kapitel 5 Gruppen
 
@@ -345,17 +345,17 @@
 
 ### Kapitel 6 Konzepte
 
-* Dopaminerge Rückmeldung (K6)
-* LFP & EEG und das Wechseln der Zugehörigkeit eine Neurons zwischen Ensembles (K6)
-* Ensembles & Dopamin (K6)
-* Enstehung und Zerfall eines Ensembles (K6)
-* Temporal-Difference-Learning-Theorie (K6)
-* Dorsoventrale Achse des PFC: Evaluation eigener Leistung und soziale Kognition (K6)
-* Dorsoventrale Achse des PFC: Entscheidungen entsprechend subjektiver Werte von Handlungsalternativen (K6)
-* Dorsoventrale Achse des PFC: Kontrolle Komplexablaufender Prozesse (K6)
-* Anteroposteriore Achse des PFC: Regelbasierte Auswahl von Handlungsalternativen (K6)
-* Anteroposteriore Achse des PFC: Überwachung zeitgleichablaufender Prozesse (K6)
-* Anteroposteriore Achse des PFC: Rekursive Kontrolle gleichzeitigablaufender übergeordneter präfrontaler Prozesse (K6)
+* Dopaminerge Rückmeldung
+* LFP & EEG und das Wechseln der Zugehörigkeit eine Neurons zwischen Ensembles
+* Ensembles & Dopamin
+* Enstehung und Zerfall eines Ensembles
+* Temporal-Difference-Learning-Theorie
+* Dorsoventrale Achse des PFC: Evaluation eigener Leistung und soziale Kognition
+* Dorsoventrale Achse des PFC: Entscheidungen entsprechend subjektiver Werte von Handlungsalternativen
+* Dorsoventrale Achse des PFC: Kontrolle Komplexablaufender Prozesse
+* Anteroposteriore Achse des PFC: Regelbasierte Auswahl von Handlungsalternativen
+* Anteroposteriore Achse des PFC: Überwachung zeitgleichablaufender Prozesse
+* Anteroposteriore Achse des PFC: Rekursive Kontrolle gleichzeitigablaufender übergeordneter präfrontaler Prozesse
 
 ### Kapitel 6 Definitionen
 
@@ -374,19 +374,19 @@
 
 ### Kapitel 7 Konzepte
 
-* Kontrolle, woran man sich erinnert (K7)
-* Neuronaler Prozess: Neocortex-basierter Abruf (K7)
-* Neuronaler Prozess: Hippocampus-basierter Abruf (K7)
-* Neuronaler Prozess: Enkodierung (K7)
-* Aufrechterhaltung von Arbeitsgedächtnis (K7)
-* Assoziative Wissensabfrage (K7)
-* Unterschied: Erinnern & Wissen (K7)
-* Das multiple Spurenmodell (K7)
-* Standard-Konsolidierungs-Theorie (K7)
-* Rolle der NMDA-Rezeptoren bei Lern- und Gedächtnisprozessen (K7)
-* Konsolidierung während des Schlafs (K7)
-* Enstehung des deklarativen Langzeitgedächtnisses (K7)
-* Rolle des Hippocampus bei der Überführung von Informationen ins Langzeitgedächtnis (K7)
+* Kontrolle, woran man sich erinnert
+* Neuronaler Prozess: Neocortex-basierter Abruf
+* Neuronaler Prozess: Hippocampus-basierter Abruf
+* Neuronaler Prozess: Enkodierung
+* Aufrechterhaltung von Arbeitsgedächtnis
+* Assoziative Wissensabfrage
+* Unterschied: Erinnern & Wissen
+* Das multiple Spurenmodell
+* Standard-Konsolidierungs-Theorie
+* Rolle der NMDA-Rezeptoren bei Lern- und Gedächtnisprozessen
+* Konsolidierung während des Schlafs
+* Enstehung des deklarativen Langzeitgedächtnisses
+* Rolle des Hippocampus bei der Überführung von Informationen ins Langzeitgedächtnis
 
 ### Kapitel 7 Gruppen
 
@@ -423,27 +423,27 @@
 ### Kapitel 8 Systeme
 
 * Olfaktorisches System
-* Verantwortliche Teile und Projektionen beim prozeduralen Lernen (K8)
+* Verantwortliche Teile und Projektionen beim prozeduralen Lernen
 
 ### Kapitel 8 Konzepte
 
 * Kreislauf von Projektionen bei prozeduralem Lernen (K8, S. 168)
-* Prozedurales Gedächtnis und Basalganglien (K8)
-* Spiegelzeichnen als Test für prozedurales Gedächtnis (K8)
-* Funktion der Konvergenzzonen: Purjekinzellen (K8)
-* Funktion der Konvergenzzonen: Nucleus Interpositus (K8)
-* Klassische Konditionierung (K8)
-* Konzeptuelle Bahnung (K8)
-* Perzeptuelle Bahnung (K8)
-* Unterschied zwischen Bahnung und prozeduralem Gedächtnis (K8)
-* Erwartungsrückmeldung im Striatum (K8)
-* Prozedurales Lernen: Phase des maximalen Ausschöpfens (K8)
-* Prozedurales Lernen: Phase der Exploration (K8)
-* Drei Stufen der Konsolidierung (K8)
+* Prozedurales Gedächtnis und Basalganglien
+* Spiegelzeichnen als Test für prozedurales Gedächtnis
+* Funktion der Konvergenzzonen: Purjekinzellen
+* Funktion der Konvergenzzonen: Nucleus Interpositus
+* Klassische Konditionierung
+* Konzeptuelle Bahnung
+* Perzeptuelle Bahnung
+* Unterschied zwischen Bahnung und prozeduralem Gedächtnis
+* Erwartungsrückmeldung im Striatum
+* Prozedurales Lernen: Phase des maximalen Ausschöpfens
+* Prozedurales Lernen: Phase der Exploration
+* Drei Stufen der Konsolidierung
 
 ### Kapitel 8 Gruppen
 
-* Drei Formen des prozeduralen Gedächtnisses (K8)
+* Drei Formen des prozeduralen Gedächtnisses
 
 ### Kapitel 8 Definitionen
 
@@ -471,9 +471,9 @@
 
 ### Kapitel 9 Systeme
 
-* Neuroanatomie von Aggression (K9)
-* Limbisches System (Komponenten & Projektionen; hemmen?) (K9)
-* Anatomie der Amygdala (K9)
+* Neuroanatomie von Aggression
+* Limbisches System (Komponenten & Projektionen; hemmen?)
+* Anatomie der Amygdala
 
 #### Kapitel 9 Darstellung
 
@@ -481,18 +481,18 @@
 
 ### Kapitel 9 Konzepte
 
-* Unterscheidung zwischen Beutefang und aggressivem Verhalten (und warum diese sich ausschließen) (K9)
-* Verhaltensänderungen durch Amygdala-Läsionen (K9)
-* Versuchsanordnung & Hauptergebnisse der Studie von Önal-Hartmann et. al. (K9)
-* Relevanz emotional assoziierter Reize (Expermient mit tragischer Geschichte) (K9)
-* Acetylcholin-Impulse von Nucleus basalis von Meynert an Cortex (K9)
-* Furchtkonditionierung (+ Amygdala & Hebbsche Regel) (K9)
-* Klassischen Konditionierungsexperiment mit Ratten (Furchtkonditionierung) (K9)
-* Experiment mit Urbach-Wiethe-Patienten (Gasflasche, Maske & Erstickungsgefühl) (K9)
-* Aufgabe der Amygdala im limbischen System (K9)
-* Regulation von Furchtverhalten (K9)
-* Regulation von aggressivem Verhalten (K9)
-* Unterschied zwischen Emotionen und Gefuehlen (K9)
+* Unterscheidung zwischen Beutefang und aggressivem Verhalten (und warum diese sich ausschließen)
+* Verhaltensänderungen durch Amygdala-Läsionen
+* Versuchsanordnung & Hauptergebnisse der Studie von Önal-Hartmann et. al.
+* Relevanz emotional assoziierter Reize (Expermient mit tragischer Geschichte)
+* Acetylcholin-Impulse von Nucleus basalis von Meynert an Cortex
+* Furchtkonditionierung (+ Amygdala & Hebbsche Regel)
+* Klassischen Konditionierungsexperiment mit Ratten (Furchtkonditionierung)
+* Experiment mit Urbach-Wiethe-Patienten (Gasflasche, Maske & Erstickungsgefühl)
+* Aufgabe der Amygdala im limbischen System
+* Regulation von Furchtverhalten
+* Regulation von aggressivem Verhalten
+* Unterschied zwischen Emotionen und Gefuehlen
 
 ### Kapitel 9 Definitionen
 
@@ -505,31 +505,31 @@
 
 ### Kapitel 10 Systeme
 
-* Drei Eingänge zum VTA im Belohnungssystem (K10)
-* Drei Eingänge zum VTA im Belohnungssystem - Acetylcholinger Eingang (K10)
-* Drei Eingänge zum VTA im Belohnungssystem - GABAerges Interneuron (K10)
-* Drei Eingänge zum VTA im Belohnungssystem - Glutamaterger Eingang (K10)
-* Mesolimbisches System (Komponenten & Projektionen; hemmen?) (K10)
-* Rezeptoren des VTA und Nucleus accumbens im mesolibischen System (K10)
+* Drei Eingänge zum VTA im Belohnungssystem
+* Drei Eingänge zum VTA im Belohnungssystem - Acetylcholinger Eingang
+* Drei Eingänge zum VTA im Belohnungssystem - GABAerges Interneuron
+* Drei Eingänge zum VTA im Belohnungssystem - Glutamaterger Eingang
+* Mesolimbisches System (Komponenten & Projektionen; hemmen?)
+* Rezeptoren des VTA und Nucleus accumbens im mesolibischen System
 
 ### Kapitel 10 Konzepte
 
-* Verschiebung der Ausschüttung von Dopamin im Laufe des Lernprozesses der klassischen Konditionierung (K10)
-* Netzwerk für Sucht (Handlungsmuster) (K10)
-* Kompensatorische Konditionierung / Kompensatorische homöostatische Reaktion (Gewöhnungeffekt) (K10)
-* Dompanin + VTA (??) (K10)
-* Gründe für das Fehlschalgen des Absetzens (K10)
-* Entzug & Stresshormone (K10)
-* Entzug & IESS (K10)
-* Rituale & Leerlauffunktionen (K10)
-* Etablierung eines prozeduralen Handlungsprozesses der zu Konsum führt (K10)
-* Neuronale Aktivität bei Beginn einer Sucht durch mehrfachem Rauchen (K10)
-* Wirkung bei gleichzeitiger Aktivierung von glutamaterger und GABAerger Neurone beim Rauchen (K10)
-* Grund für kurze Pausen zwischen den Zügen beim Rauchen (Aufzeichnungen S. 3) (K10)
-* Direkte Aktivierung der Rezeptoren des mesolibischen Systems (K10)
-* Effekt von Nikotin & Nikotinentzug bei Ratten mit IESS (K10)
-* Entstehung von Belohnung im Nucleus Accumbens (K10)
-* Veränderung der Projektionen vom VTA zum Nucleus Accumbens bei Sucht (K10)
+* Verschiebung der Ausschüttung von Dopamin im Laufe des Lernprozesses der klassischen Konditionierung
+* Netzwerk für Sucht (Handlungsmuster)
+* Kompensatorische Konditionierung / Kompensatorische homöostatische Reaktion (Gewöhnungeffekt)
+* Dompanin + VTA (??)
+* Gründe für das Fehlschalgen des Absetzens
+* Entzug & Stresshormone
+* Entzug & IESS
+* Rituale & Leerlauffunktionen
+* Etablierung eines prozeduralen Handlungsprozesses der zu Konsum führt
+* Neuronale Aktivität bei Beginn einer Sucht durch mehrfachem Rauchen
+* Wirkung bei gleichzeitiger Aktivierung von glutamaterger und GABAerger Neurone beim Rauchen
+* Grund für kurze Pausen zwischen den Zügen beim Rauchen (Aufzeichnungen S. 3)
+* Direkte Aktivierung der Rezeptoren des mesolibischen Systems
+* Effekt von Nikotin & Nikotinentzug bei Ratten mit IESS
+* Entstehung von Belohnung im Nucleus Accumbens
+* Veränderung der Projektionen vom VTA zum Nucleus Accumbens bei Sucht
 
 ### Kapitel 10 Definitionen
 
@@ -547,34 +547,34 @@
 
 ### Kapitel 11 Systeme
 
-* Das volumetrische System (K11)
-* Das osmomische System (K11)
+* Das volumetrische System
+* Das osmomische System
 
 ### Kapitel 11 Konzepte
 
-* Reaktion auf geringe Menge an Blut in der Niere durch Blutverlust (K11)
-* Nutzung des osmotischen Systems durch das volumetrische System (K11)
-* Nutzung des libischen Systems durch das volumetrische System (K11)
-* Prozess zur Verdickung des Urin um Wasser zu sparen (osmotisches System) (K11)
-* Auslösen einer Kaskade bei der am Schluss getrunken wird durch circumventrikuläre Organe (K11)
-* Sättigung durch Neuronengruppe im Nucleus arcuatus (K11)
-* Sättigung durch Anstieg des Leptin- & Abnahme des Ghrellinspiegels (K11)
-* Sättigung durch Anstieg der Insulinproduktion bei steigendem Blutzuckerspiegel (K11)
-* Sättigung durch Peptidhormon Chotecystokinin (CCK) (K11)
-* Sättigung durch Signale aus dem Magen und Zwölffingerdarm (K11)
-* Sättigung durch Erfahrung (K11)
-* Koordination und Unterstützung der Medulla oblongata von Nahrungsaufnahme durch Vorderhirn (S. 224) (K11)
-* Kaskade von Prozessen, ausgelöst durch das ob-Gen, bei denen am Schluss ein Hungergefühl entsteht (K11)
-* Folgen des Absinkens des Blutzuckerspiegels (??) (K11)
-* Abbau der Proteine beim Fasten nach Aufbrauchen der Reserven der Fettzellen (??) (K11)
-* Folge von leeren Glykogenspeichern und Anwesenheit von Glycogan (??) (K11)
-* Grund für Produktion von Glucogan (??) (K11)
-* Ablauf zur Erstellung langfristiger Reserven (??) (K11)
-* Ablauf für kurzfristige Speicherung von Energie aus Nahrung (??) (K11)
+* Reaktion auf geringe Menge an Blut in der Niere durch Blutverlust
+* Nutzung des osmotischen Systems durch das volumetrische System
+* Nutzung des libischen Systems durch das volumetrische System
+* Prozess zur Verdickung des Urin um Wasser zu sparen (osmotisches System)
+* Auslösen einer Kaskade bei der am Schluss getrunken wird durch circumventrikuläre Organe
+* Sättigung durch Neuronengruppe im Nucleus arcuatus
+* Sättigung durch Anstieg des Leptin- & Abnahme des Ghrellinspiegels
+* Sättigung durch Anstieg der Insulinproduktion bei steigendem Blutzuckerspiegel
+* Sättigung durch Peptidhormon Chotecystokinin (CCK)
+* Sättigung durch Signale aus dem Magen und Zwölffingerdarm
+* Sättigung durch Erfahrung
+* Koordination und Unterstützung der Medulla oblongata von Nahrungsaufnahme durch Vorderhirn (S. 224)
+* Kaskade von Prozessen, ausgelöst durch das ob-Gen, bei denen am Schluss ein Hungergefühl entsteht
+* Folgen des Absinkens des Blutzuckerspiegels (??)
+* Abbau der Proteine beim Fasten nach Aufbrauchen der Reserven der Fettzellen (??)
+* Folge von leeren Glykogenspeichern und Anwesenheit von Glycogan (??)
+* Grund für Produktion von Glucogan (??)
+* Ablauf zur Erstellung langfristiger Reserven (??)
+* Ablauf für kurzfristige Speicherung von Energie aus Nahrung (??)
 
 ### Kapitel 11 Gruppen
 
-* Faktoren für Sättigungsgefühl (K11)
+* Faktoren für Sättigungsgefühl
 
 ### Kapitel 11 Definitionen
 
@@ -596,27 +596,27 @@
 
 ### Kapitel 12 Konzepte
 
-* Affengeschlecht und geschlechtsspezifische Auswahl von Menschenspielzeug (K12)
-* Biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede (K12)
-* Geschlechtsumwandlung durch Hormontherapie & operation (K12)
-* Biologische & Kulturelle Ursachen für kognitive Geschlechtsunterschiede (K12)
-* Keine Geschlechtsunterschiede bei Denkmustern (K12)
-* Abbau der Konnektivität des Gehirns und Verschiebung in Richtung frontaler und temporaler Schaltkreise (K12)
-* Schrumpfen des Gehirnvolumens nach der Pubertät durch Abbau synaptischer Kontakte in grauer Substanz, die sich nicht bewährt haben (K12)
-* Hirnfunktionsmechanismen "aktivierend" und "organisierend" (K12)
-* Umwandlung des Körpers ab der 6. Schwangerschaftswoche durch das SRY-Gen das das TDF Protein kodiert (K12)
-* Rot-Grün-Schwäche bei Männern häufiger als bei Frauen, da Gene nur auf X-Chromosom (K12)
-* Unterschied zwischen Gender und Geschlecht: Geschlecht: Biologisch, Gender: Selbstbild, Geschlechtstypisches Rollenverhalten, Gesellschaftliche Dimension des Weiblichen und Männlichen (K12)
+* Affengeschlecht und geschlechtsspezifische Auswahl von Menschenspielzeug
+* Biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede
+* Geschlechtsumwandlung durch Hormontherapie & operation
+* Biologische & Kulturelle Ursachen für kognitive Geschlechtsunterschiede
+* Keine Geschlechtsunterschiede bei Denkmustern
+* Abbau der Konnektivität des Gehirns und Verschiebung in Richtung frontaler und temporaler Schaltkreise
+* Schrumpfen des Gehirnvolumens nach der Pubertät durch Abbau synaptischer Kontakte in grauer Substanz, die sich nicht bewährt haben
+* Hirnfunktionsmechanismen "aktivierend" und "organisierend"
+* Umwandlung des Körpers ab der 6. Schwangerschaftswoche durch das SRY-Gen das das TDF Protein kodiert
+* Rot-Grün-Schwäche bei Männern häufiger als bei Frauen, da Gene nur auf X-Chromosom
+* Unterschied zwischen Gender und Geschlecht: Geschlecht: Biologisch, Gender: Selbstbild, Geschlechtstypisches Rollenverhalten, Gesellschaftliche Dimension des Weiblichen und Männlichen
 
 ### Kapitel 12 Forschungsresultate
 
-* Räumliche Leistung beim Hormontherapie zur Geschlechtsumwandlung wird nur bei FzM Gruppe besser (K12)
-* Kognitive Geschlechtsunterschiede (K12)
-* Testosteron hat verkleinernden Effekt auf Größe des Hippocampus (K12)
-* Östradol hat vergrößernden Effekt auf Größe des Hippocampus (K12)
-* Testosteron führt zu einer Vergrößerung der Amygdala, am Ende der Pubertät haben Männer eine größere Amygdala als Frauen (K12)
-* Männer haben größeres Gehirnvolumen (K12)
-* Abwesenheit von sowohl männlichen als auch weiblichen Hormonen, wird das Kind zu einer Frau (K12)
+* Räumliche Leistung beim Hormontherapie zur Geschlechtsumwandlung wird nur bei FzM Gruppe besser
+* Kognitive Geschlechtsunterschiede
+* Testosteron hat verkleinernden Effekt auf Größe des Hippocampus
+* Östradol hat vergrößernden Effekt auf Größe des Hippocampus
+* Testosteron führt zu einer Vergrößerung der Amygdala, am Ende der Pubertät haben Männer eine größere Amygdala als Frauen
+* Männer haben größeres Gehirnvolumen
+* Abwesenheit von sowohl männlichen als auch weiblichen Hormonen, wird das Kind zu einer Frau
 
 ### Kapitel 12 Definitionen
 
