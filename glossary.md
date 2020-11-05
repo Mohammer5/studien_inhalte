@@ -125,18 +125,26 @@ Grund für Produktion von Glucogan (??) (K11)
 Ablauf zur Erstellung langfristiger Reserven (??) (K11)
 Ablauf für kurzfristige Speicherung von Energie aus Nahrung (??) (K11)
 Affengeschlecht und geschlechtsspezifische Auswahl von Menschenspielzeug (K12)
-Biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede
-Geschlechtsumwandlung durch Hormontherapie & operation
-Biologische & Kulturelle Ursachen für kognitive Geschlechtsunterschiede
-Keine Geschlechtsunterschiede bei Denkmustern
-Abbau der Konnektivität des Gehirns und Verschiebung in Richtung frontaler und temporaler Schaltkreise
-Schrumpfen des Gehirnvolumens nach der Pubertät durch Abbau synaptischer Kontakte in grauer Substanz, die sich nicht bewährt haben
-Hirnfunktionsmechanismen "aktivierend" und "organisierend"
+Biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede (K12)
+Geschlechtsumwandlung durch Hormontherapie & operation (K12)
+Biologische & Kulturelle Ursachen für kognitive Geschlechtsunterschiede (K12)
+Keine Geschlechtsunterschiede bei Denkmustern (K12)
+Abbau der Konnektivität des Gehirns und Verschiebung in Richtung frontaler und temporaler Schaltkreise (K12)
+Schrumpfen des Gehirnvolumens nach der Pubertät durch Abbau synaptischer Kontakte in grauer Substanz, die sich nicht bewährt haben (K12)
+Hirnfunktionsmechanismen "aktivierend" und "organisierend" (K12)
+Umwandlung des Körpers ab der 6. Schwangerschaftswoche durch das SRY-Gen das das TDF Protein kodiert (K12)
+Rot-Grün-Schwäche bei Männern häufiger als bei Frauen, da Gene nur auf X-Chromosom (K12)
+Unterschied zwischen Gender und Geschlecht: Geschlecht: Biologisch, Gender: Selbstbild, Geschlechtstypisches Rollenverhalten, Gesellschaftliche Dimension des Weiblichen und Männlichen (K12)
 
 ### Forschungsresultate
 
 Räumliche Leistung beim Hormontherapie zur Geschlechtsumwandlung wird nur bei FzM Gruppe besser (K12)
-Kognitive Geschlechtsunterschiede
+Kognitive Geschlechtsunterschiede (K12)
+Testosteron hat verkleinernden Effekt auf Größe des Hippocampus (K12)
+Östradol hat vergrößernden Effekt auf Größe des Hippocampus (K12)
+Testosteron führt zu einer Vergrößerung der Amygdala, am Ende der Pubertät haben Männer eine größere Amygdala als Frauen (K12)
+Männer haben größeres Gehirnvolumen (K12)
+Abwesenheit von sowohl männlichen als auch weiblichen Hormonen, wird das Kind zu einer Frau (K12)
 
 ### Gruppen
 
@@ -429,3 +437,21 @@ Testis-dominierender Faktor (S. 244)
 Geschlechtsidentitätsstörung
 Schlussfolgern Mechanik
 Kognitives Geschlecht
+Neuronales Geschlecht
+Östradiol
+Androgenresistenz
+Skrotum
+Dihydrotestosteron
+Testosteron
+Androgenrezeptoren
+Androgene
+Anti-Müller-Hormon
+Wolff'scher Gang
+Müller'scher Gang
+Ovarien
+Gonaden
+Körperliches Geschlecht
+TDF-Hormon
+SRY-Gen
+Genexpression
+Genetiches Geschlecht
