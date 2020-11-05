@@ -2,54 +2,54 @@
 
 ### [Kapitel 1](#kapitel-1)
 [Gruppen](#kapitel-1-gruppen)<br />
-[Definitionen](#kapitel-1-gruppen)<br />
+[Definitionen](#kapitel-1-definitionen)<br />
 ### [Kapitel 2](#kapitel-2)
-[Konzepte](#kapitel-2-gruppen)<br />
+[Konzepte](#kapitel-2-konzepte)<br />
 [Gruppen](#kapitel-2-gruppen)<br />
-[Definitionen](#kapitel-2-gruppen)<br />
+[Definitionen](#kapitel-2-definitionen)<br />
 ### [Kapitel 3](#kapitel-3)
-[Systeme](#kapitel-3-gruppen)<br />
-[Konzepte](#kapitel-3-gruppen)<br />
+[Systeme](#kapitel-3-systeme)<br />
+[Konzepte](#kapitel-3-konzepte)<br />
 [Gruppen](#kapitel-3-gruppen)<br />
-[Definitionen](#kapitel-3-gruppen)<br />
+[Definitionen](#kapitel-3-definitionen)<br />
 ### [Kapitel 4](#kapitel-4)
-[Konzepte](#kapitel-4-gruppen)<br />
+[Konzepte](#kapitel-4-konzepte)<br />
 [Gruppen](#kapitel-4-gruppen)<br />
-[Definitionen](#kapitel-4-gruppen)<br />
+[Definitionen](#kapitel-4-definitionen)<br />
 ### [Kapitel 5](#kapitel-5)
-[Systeme](#kapitel-5-gruppen)<br />
-[Konzepte](#kapitel-5-gruppen)<br />
+[Systeme](#kapitel-5-systeme)<br />
+[Konzepte](#kapitel-5-konzepte)<br />
 [Gruppen](#kapitel-5-gruppen)<br />
-[Definitionen](#kapitel-5-gruppen)<br />
+[Definitionen](#kapitel-5-definitionen)<br />
 ### [Kapitel 6](#kapitel-6)
-[Konzepte](#kapitel-6-gruppen)<br />
-[Definitionen](#kapitel-6-gruppen)<br />
+[Konzepte](#kapitel-6-konzepte)<br />
+[Definitionen](#kapitel-6-definitionen)<br />
 ### [Kapitel 7](#kapitel-7)
-[Konzepte](#kapitel-7-gruppen)<br />
+[Konzepte](#kapitel-7-konzepte)<br />
 [Gruppen](#kapitel-7-gruppen)<br />
-[Definitionen](#kapitel-7-gruppen)<br />
+[Definitionen](#kapitel-7-definitionen)<br />
 ### [Kapitel 8](#kapitel-8)
-[Systeme](#kapitel-8-gruppen)<br />
-[Konzepte](#kapitel-8-gruppen)<br />
+[Systeme](#kapitel-8-systeme)<br />
+[Konzepte](#kapitel-8-konzepte)<br />
 [Gruppen](#kapitel-8-gruppen)<br />
-[Definitionen](#kapitel-8-gruppen)<br />
+[Definitionen](#kapitel-8-definitionen)<br />
 ### [Kapitel 9](#kapitel-9)
-[Systeme](#kapitel-9-gruppen)<br />
-[Konzepte](#kapitel-9-gruppen)<br />
-[Definitionen](#kapitel-9-gruppen)<br />
+[Systeme](#kapitel-9-systeme)<br />
+[Konzepte](#kapitel-9-konzepte)<br />
+[Definitionen](#kapitel-9-definitionen)<br />
 ### [Kapitel 10](#kapitel-10)
-[Systeme](#kapitel-10-gruppen)<br />
-[Konzepte](#kapitel-10-gruppen)<br />
-[Definitionen](#kapitel-10-gruppen)<br />
+[Systeme](#kapitel-10-systeme)<br />
+[Konzepte](#kapitel-10-konzepte)<br />
+[Definitionen](#kapitel-10-definitionen)<br />
 ### [Kapitel 11](#kapitel-11)
-[Systeme](#kapitel-11-gruppen)<br />
-[Konzepte](#kapitel-11-gruppen)<br />
+[Systeme](#kapitel-11-systeme)<br />
+[Konzepte](#kapitel-11-konzepte)<br />
 [Gruppen](#kapitel-11-gruppen)<br />
-[Definitionen](#kapitel-11-gruppen)<br />
+[Definitionen](#kapitel-11-definitionen)<br />
 ### [Kapitel 12](#kapitel-12)
-[Konzepte](#kapitel-12-gruppen)<br />
+[Konzepte](#kapitel-12-konzepte)<br />
 [Forschungsergebnisse](#kapitel-12-forschungsergebnisse)<br />
-[Definitionen](#kapitel-12-gruppen)
+[Definitionen](#kapitel-12-definitionen)
 
 # Kapitel
 
