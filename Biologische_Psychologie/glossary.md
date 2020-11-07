@@ -50,7 +50,6 @@
   * [Definitionen](#kapitel-11-definitionen)
 * [Kapitel 12](#kapitel-12)
   * [Konzepte](#kapitel-12-konzepte)
-  * [Forschungsergebnisse](#kapitel-12-forschungsergebnisse)
   * [Definitionen](#kapitel-12-definitionen)
 
 # Kapitel
@@ -129,14 +128,16 @@
 * Depolarisation
 * Elektrostatische Kraft
 * Hyperpolarisation
+* Ion Calcium
 * Ion Chlorid
 * Ion Eiweiß
 * Ion Kalium
 * Ion Natrium
-* Ion: Calcium
 * Ionenkanal Kalium
 * Ionenkanal Natrium
 * Ionenkanal Natrium-Kalium-Pumpe
+* Ionenkanal Calium
+  * An Präsynapse, für Vesikel
 * Konzentrationsgradient
 * Membranpotenzial
 * Myelinisierte Axone
@@ -144,6 +145,7 @@
 * Refraktärzeit
 * Ruhepotenzial
 * Tetrodotoxin
+  * @TODO
 * Zellmembran
 
 ## Kapitel 3
@@ -216,6 +218,7 @@
   * Komponente des Systems der Basalganglien ist. Die Nigrostriatalbahn benutzt Dopamin als Neurotransmitter
   * Wichtig für Willkürmotorik
 * Botunilumtoxin
+  * @TODO
 * Exzitatorisches postsynaptisches Potenzial (EPSP)
   * Depolarisierendes Potenzial
 * Inhibitorisches postsynaptisches Potenzial (IPSP)
@@ -229,10 +232,13 @@
   * Ist ein Amin (Katecholamin)
 * Neurotransmitter: Exzitatorisch
 * Neurotransmitter: GABA-a
+  * @TODO
 * Neurotransmitter: GABA-b
+  * @TODO
 * Neurotransmitter: Glutamat
 * Neurotransmitter: Inhibitorisch
 * Neurotransmitter: Oxytocin
+  * @TODO
 * Nucleus Basalis von Meynert
   * Produziert Acetylcholin
   * Befindet sich im frontalen, basalen Telencephalon
@@ -397,6 +403,7 @@
           * Diese produzieren dann FSH
           * FSH wird in die Blutbahn abgegeben um zu den Eierstöcken bzw Hoden
             transportiert zu werden
+      * **<ins>Nucleus paraventricularis</ins>**
 * **<ins>Truncus cerebri</ins>** (Hirnstamm)
   * Fasertrakte fast aller Szsteme steigen durch den Hirnstamm auf
   * **<ins>Formatio Reticularis</ins>**
@@ -568,12 +575,18 @@
 ---
 
 * Arachnoidea
+  * @TODO
 * Brodmann Areale
 * Dura Mater
+  * @TODO
 * Falten des Cortex
+  * Für mehr Oberfläche -> Größere Rinde
 * Gonadotropin-Releasing-Hormon (GnRH)
+  * @TODO
 * Gyrus
+  * @TODO
 * Liquor cerebrospinalis
+  * @TODO
 * Ludwig Edinger (S 78f)
 * Melatonin
 * Muskeltonus
@@ -581,10 +594,15 @@
     einer Muskelgruppe
 * Nucleus caudatus
 * Oxytocin
+  * @TODO
 * Pia Mater
+  * @TODO
 * Sulcus
+  * @TODO
 * Vasopressin
+  * Siehe Kapitel 11
 * Vigilanz
+  * @TODO
 * Zentrales Nervensystem
   * Gehirn und Rückenmark
   * Gegenteil: Peripheres Nervensystem
@@ -701,6 +719,7 @@
 ### Kapitel 5 Definitionen
 
 * Agnosie (visuell)
+  * @TODO
 * Bulbus olfactorius
 * Cortex piriformis
 * Fovea
@@ -708,8 +727,7 @@
 * Glomeruli des Bulbus
 * Gyrus postcentralis
 * Homunculus
-* MRT
-* Magnetresonanztomograf
+* Magnetresonanztomograf (MRT)
 * Mororischer Homunculus
 * Nucleus geniculatus lateralis pars dorsalis (GLd)
   * Einer von zwei Kniehöcker im dorsalen Thalamus
@@ -722,17 +740,22 @@
 * Primärsensorische Areale
 * Prämotorische Areale
 * Pyramidenbahn
+  * @TODO
 * Retinotopie
+  * @TODO
 * Reziprok
+  * @TODO
 * Riechkolben
 * Sensorische Landkarte
 * Siebbein
 * Somatosensorisches System
 * Sulcus calcarinus
+  * @TODO
 * Tor zum Bewusstsein (ist Thalamus)
   * Fast alle Sinne müssen durch den Thalamus und werden dort entweder gehemmt
     oder gestärt, deswegen der Name
 * Transkranielle Magnetstimulation
+  * @TODO
 * Verarbeitungspfade der primären sensorischen Areale
 * fMRT
 * retinotop
@@ -831,11 +854,12 @@
 * Elektroenzephalogramm
 * Ensembles
 * Gyrus cinguli
+  * @TODO
 * Hebbsche Lernregel
+  * Siehe Furchtkonditionierung
 * LFP
+  * @TODO
 * Lokales Feldpotenzial
-* Somatischer Marker
-* Temporal-Difference-Learning-Theory
 
 ## Kapitel 7
 
@@ -960,10 +984,9 @@
 ### Kapitel 7 Definitionen
 
 * Amnesie: Anterograd
+  * @TODO
 * Amnesie: Retrograd
-* Das multiple Spurenmodell
-* Dendritischer Spike
-* Erinner
+  * @TODO
 * Gedächtnis: Arbeitsgedächtnis
 * Gedächtnis: Deklaratives
 * Gedächtnis: Episodisches
@@ -976,9 +999,11 @@
 * Gedächtnis: Semantisches
 * Henry Gustav Molaison
 * Konfabulation
+  * @TODO
 * Multiple Trace Theory
 * REM-Schlaf
 * Ribotsche Kurve
+  * @TODO
 * Slow-Wave-Schlaf
 * Standard-Konsolidierungs-Theorie
 * Wissen
@@ -1129,10 +1154,12 @@
 * Nucleus Interpositus
 * Parallelfasern
 * Parkinson Erkrankung
+  * @TODO
 * Pontine Kerne
 * Prozedurales Gedächtnis (Definition & Eigenschaften)
 * Purjekinzellen
 * Speicherort für klassische Konditionierung
+  * Konvergenzzonen, nicht Kleinhirn
 * Versuchs-und-Irrtum Phase
 * Win-shift-Strategie
 * Win-stay-Strategie
@@ -1424,8 +1451,11 @@
 * Intrakanelle elektrische Selbststimulation
 * James Olds
 * Nucleus accumbens
+  * @TODO
 * Opponen-Process-Theorie
+  * @TODO
 * Pawlowsche Konditionierung
+  * @TODO
 * Ventrales Striatum
 
 ## Kapitel 11
@@ -1480,19 +1510,179 @@
     oblongata im Stammhirn wahrgenommen.
     * Entsprechend kann mit der Nahrungsaufnahme begonnen werden
 
-* Sättigung durch Neuronengruppe im Nucleus arcuatus
-* Sättigung durch Anstieg des Leptin- & Abnahme des Ghrellinspiegels
-* Sättigung durch Anstieg der Insulinproduktion bei steigendem Blutzuckerspiegel
-* Sättigung durch Peptidhormon Chotecystokinin (CCK)
-* Sättigung durch Signale aus dem Magen und Zwölffingerdarm
+* ob-Gen
+  * Sorgt für die Produktion eines Proteins: Leptin
+  * Wird von Fettzellen produziert, die mit Triglyceriden voll sind
+  * Teilt dem Hypothalamus mit, dass eine weitere Nahrungsaufnahme nicht nötig
+    ist
+    * Der Nucleus acuatus im Hypothalamus hat Leptinrezeptoren
+    * Das Absinken des Leptinspiegels aktiviert sich in ihm befindende NPY- und
+      AGRP-Neurone
+      * Diese erkennen das Hormon Ghrelin
+        * Siehe unten, "Ghrelin"
+    * Der Anstieg von Ghrelin wird evenfalls vom Nucleus acuatus registriert
+    * Dadurch wird Nahrungsaufnahme gestartet
+      * Für Details, siehe "NPY- & AGRP-Zellen des Nucleus acuatus"
+
+* Ghrelin (Hormon)
+  * NPY- und AGRP-Neurone haben Rezepor für Ghrelin
+  * Der Magen gibt Ghrelin ab, wenn er leer ist
+
+* NPY- & AGRP-Zellen des Nucleus acuatus
+  * Projizieren in 2 benachbarte Areale:
+    * Nucleus paracentricularis
+    * lateraler Hypothalamus
+  * Projektionen zu: Nucleus paracentricularis
+    * hemmt die Freisetzung von ACTH und TSH
+      * Hemmung sorgt dafür, dass der Körper das unnötige verbrauchen von Energie
+        vermeidet
+      * ACTH = adrenocorticotropes Hormon
+      * TSH = Thyroidea stimulierendes Hormon
+  * Projektionen zu: lateraler Hypothalamus
+    * sorgt für Freisetzung von 2 Hormonen: MCH & Orexin
+      * MCH = Melanin-konzentrierendes Hormon
+      * Orexin = "appettit", aus dem Griechischen
+    * Zellen mit Rezeptoren projizieren in einige Gehirnregionen, unter anderem
+      in den Cortex und VTA
+      * Im Cortex: Dort werden kognitive Prozesse angestoßen, die einen Verbindung mit
+        Verhalten zur Nahrungssuche haben
+      * Im VTA: Sorgt für die Ausschüttung von Dopamin. Dies sorgt für eine
+        Erwartung, dass die Nahrungssuche mit einer Belohnung endet
+      * Allg. Aktivierung des Gehirns: Es werden viele Teile des Gehirns
+        aktiviert, was zu einer erhöhten Wachheit führt, die die Nahrungssuche
+        unterstützt
+        * Andere Komponenten, wie z. B. die Medulla oblongata, modulieren das
+          vegetative Nervensystem und reduzieren den Stoffwechsel
+  * Das Resultat ist, dass der Hypothalamus Einfluss auf ganze Teile des
+    Gehirns nimmt, wodurch die Aufmerksamkeit auf das finden einer nächsten
+    Mahlzeit gelenkt wird.
+
 * Sättigung durch Erfahrung
+  * Menschen ohne Hippocampus essen wenige Minuten, nachdem man ihnen eine
+    Mahlzeit gegeben hat, eine weiter, wenn man ihnen eine anbietet
+  * Sie vergessen, dass sie gegessen haben
+
+* Sättigung durch Signale aus dem Magen und Zwölffingerdarm
+  * Mechanorezeptoren können wahrnehmen, ob diese Organe gefüllt sind.
+    * Information wird dann dem Nervus vagus geleitet
+  * Beide Organe haben Nährstoffrezeptoren
+    * Dadurch können diese die Anwesenheit von Glucose, Aminosäuren und Fetten
+      mitteilen
+  * Eine Kombination der beiden Signale ist eines der wichtigsten
+    Sättigungssignale
+
+* Sättigung durch Peptidhormon Chotecystokinin (CCK)
+  * Dieses Hormon wird im Zwölffingerdarm produziert und ausgeschüttet
+  * Die Blut-Hirn-Schranke lässt es allerdings nicht durch
+  * Der Nervus vagus muss dem Gehirn das Vorkommen dieses Hormons mitteilen
+
+* Sättigung durch Anstieg der Insulinproduktion bei steigendem Blutzuckerspiegel
+  * Das vorhandensein eines gewissen Insulinspiegels ist ein Signal, dass
+    genügend gegessen wurde
+
+* Sättigung durch Anstieg des Leptin- & Abnahme des Ghrellinspiegels
+  * Dadurch werden die NPY- und AGRP-Neurone gehemmt und die Aktivierung des
+    Hypothalamus fällt aus
+  * So kann auch kein MCH und Orexin ausgeschüttet werden
+    * Siehe oben, "NPY- & AGRP-Zellen des Nucleus acuatus"
+
+* Sättigung durch Neuronengruppe im Nucleus arcuatus
+  * Diese Neurone haben Rezeptoren für das Protein Leptin
+  * Die Transmitter in diesen Rezeptoren sind: CART und a(alpha)-MSH
+    * CART = Cocain- und Amphetamin-regulierendes Trakskript
+    * a-MSH = a-Melanozyten-stimulierendes Hormon
+  * Diese werden durch einen Anstieg des Leptinspiegels aktiviert
+  * Diese Neurone hemmen Appetit
+  * Außerdem enden die Neurone im Nucleu paraventricularis
+    * Erhöhen die Freisetzung von ACTH und TSH
+    * Erhöht die Körpertemperatur und den Stoffwechsel
+  * Außerdem enden die Neurone im lateralen Hypothalamus
+    * Dadurch werden MCH- und Orexinneurone gehemmt
+  * Folge:
+    * Rotes Gesicht
+    * Die Umgebung wird als warm empfunden
+    * Die bewussten Gedanken drehen sich weniger um Essen
+
+* Das osmotische System
+  * Durch Atmen, Schwitzen oder die Aufnahme von Salz erhöht sich die Dichte
+    der Ionen, da sich die Wassermenge verringert
+    * Wurde Salz aufgenommen, werden einige Ione des Salzes mit Wasser
+      ausgeschieden, was zu einem noch größeren Wasserverlust sorgt
+  * Dadurch schrumpfen Zellen, denn die erhöhte Ionendichte in der
+    interstiziellen Flüssigkeit sorgt für einen größeren osmotischen Druck,
+    welcher den Zellen ihr Wasser entzieht
+  * Das Gehirn besitzt Neurone, die das Schrumpfen von Zellen wahrnehmen können
+    * Das osmotische System besteht aus diesen Zellen
+  * Die wichtigsten Komponenten sind 2 Kerne des III. Ventrikels: OVLT und
+    Subfornikalorgan; OVLT = Organum vasculosum der Lamina terminalis
+    * Sind 2 von 6 circumventrikulären Organen des Gehirns
+    * Sind unpaarige Nuklei, die sich entlang der Medianebene des Ghirns direkt
+      am Ventrikel befinden
+    * Sie beinhalten die Blut-Hirn-Schranke
+      * Stoffe, die sich im Blut befinden, können diese Organe also dirket
+        beeinflussen
+    * Sie beinhalten die Ventrikel-Hirn-Schranke
+      * Neurotransmitter und Hormone, die sich in der Vetrikelflüssigkeit
+        befinden, können NICHT direkt alle Zelen der circumventrikulären Organe
+        beeinflussen
+    * beinhalten Rezeptoren für die Osmolarität der interstiziellen Flüssigkeit
+      * Es reicht bereits eine ein-prozentige Veränderung aus. Dies sorgt schon
+        für eine massive Aktivierung des OVLT und Subfornikalorgans
+        * Dadurch wird eine Kaskade ausgelöst, die Handeln in Gang setzt, bei
+          der getrunken wird
+    * Projizieren zum medialen präoptischen Nucleus
+      * Dieser projiziert in viele Systeme, unter anderem dem Hypothalamus
+      * Dort werden Orexinneurone aktiviert
+        * Noch nicht gut untersucht. Wahrscheinlich unterstützen diese Neurone
+          die Wasseraufnahme so, wie sie es auch bei der Nahrungsaufnahme tun
+  * Das Subfornikalorgan, der mediale präoptische Nucleus und das OLVT
+    projizieren zum Nucleus paraventricularis und Nucleus supraopticus
+    * Produzieren Vasopressin
+    * Wird mit Hilfe der Axone in die Hypophyse transportiert
+    * Hypophyse schüttet Vasopressin bei aktivierung der beiden Kerne aus
+    * Dann verändert Vasopressin die Filtereigenschaft der Niere so, dass
+      Wasser aus dem Harn zurückgewonnen wird
+    * Urin wird dicker und weniger Wasser geht verloren
+
+* Das volumentrische System
+  * Der Blutdruck bei Verletzungen sinkt, da Blut verloren wird und dadurch
+    weniger Flüssigkeit vorhanden ist
+    * Barorezeptoren im Herz können die Erhöhung des Innendrucks wahrnehmen
+    * Diese feuern massiv, wenn der Druck sinkt
+    * Sie projizieren zm Nervus vagus, dieser weiter zum Nucleus solitarius,
+      welcher zur Medulla oblongata projiziert
+    * Der Nucleus solitarius integriert zusätzlich Signale aus den Eingeweiden
+      und hat viele weitere Projektionen in viele Teile des Gehirns
+      * Z. B. in die präoptische Region, welche zum Hypothalamus projizieren
+    * Das volumetrische System kann so die Mechanismen des osmotischen Systems
+      nutzen
+    * Außerdem hat der Nucleus solitarius projektionen in das limbische System,
+      wodurch in Handlungen eingegriffen werden kann
+  * Nieren nehmen geringere Mengen an Blut wahr, wordurch sie Renin ausschütten
+    * Dieses kommt ins Blut und wird durch das Protein Angiotensinogen erst zu
+      Angiotensin, dann zu Angiotensin II umgewandelt
+      * Antiotensin ist ein Peptithormon
+    * Es kann zwar die nicht Blut-Hirn-Schranke passieren, muss also die
+      circumventrikulären Organe aktivieren
+    * Dadurch wird ein Durstgefühl sowie die Suche nach Wasser ausgelöst
 
 * Prozess zur Verdickung des Urin um Wasser zu sparen (osmotisches System)
+  * S. o.
+
 * Auslösen einer Kaskade bei der am Schluss getrunken wird durch circumventrikuläre Organe
+  * S. o.
+
 * Kaskade von Prozessen, ausgelöst durch das ob-Gen, bei denen am Schluss ein Hungergefühl entsteht
-* Reaktion auf geringe Menge an Blut in der Niere durch Blutverlust
+  * S. o.
+
 * Nutzung des osmotischen Systems durch das volumetrische System
+  * S. o.
+
 * Nutzung des libischen Systems durch das volumetrische System
+  * S. o.
+
+* Reaktion auf geringe Menge an Blut in der Niere durch Blutverlust
+  * S. o.
 
 ### Kapitel 11 Gruppen
 
@@ -1509,7 +1699,7 @@
 * Glycogen
 * Interstizieller Raum
 * NPY & AGRP Zellen
-* Nucleus arcuatus
+* Nucleus acuatus
 * Subfornikalorgan
 * Vasopressin
 * Vesikel-Hirn-Schranke
@@ -1518,49 +1708,177 @@
 
 ### Kapitel 12 Konzepte
 
-* Affengeschlecht und geschlechtsspezifische Auswahl von Menschenspielzeug
-* Biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede
-* Geschlechtsumwandlung durch Hormontherapie & operation
-* Biologische & Kulturelle Ursachen für kognitive Geschlechtsunterschiede
-* Keine Geschlechtsunterschiede bei Denkmustern
-* Abbau der Konnektivität des Gehirns und Verschiebung in Richtung frontaler und temporaler Schaltkreise
-* Schrumpfen des Gehirnvolumens nach der Pubertät durch Abbau synaptischer Kontakte in grauer Substanz, die sich nicht bewährt haben
-* Hirnfunktionsmechanismen "aktivierend" und "organisierend"
+* Unterschied zwischen Gender und Geschlecht:
+  * Geschlecht: Biologisch
+  * Gender: Selbstbild, Geschlechtstypisches Rollenverhalten, Gesellschaftliche Dimension des Weiblichen und Männlichen
+
+#### genetisch
+* Gen-Expression zeigt bei ca. 75% der Gene Geschlechtsunderschiede
+
 * Umwandlung des Körpers ab der 6. Schwangerschaftswoche durch das SRY-Gen das das TDF Protein kodiert
+  * Ohne TDF würde das Embryo zu einer Frau
+  * Manchmal ist ds SRY-Gen auf dem X Chromosom, dann entsteht ein männlicher
+    Mensch mit XX-Chromosom
+
 * Rot-Grün-Schwäche bei Männern häufiger als bei Frauen, da Gene nur auf X-Chromosom
-* Unterschied zwischen Gender und Geschlecht: Geschlecht: Biologisch, Gender: Selbstbild, Geschlechtstypisches Rollenverhalten, Gesellschaftliche Dimension des Weiblichen und Männlichen
+  * Gen für Erzeugung des Grünpigments auf X Chromosom
+    * Bei ca. 6% der Männer fehlerhaft
+  * Allele sind rezessiv, deswegen haben weniger Frauen diese Schwäche, da sie
+    ein 2. X-Chromosom haben, dass den Fehler ausgleichen kann
+  * Kann nur an Töchter vererbt werden, weil der Defekt ja auf dem X-Chromosom
+    sitzt
+    * Überspringt deswegen meistens eine Generation, außer die Frau hat 2
+      defekte X-Chromosome
 
-### Kapitel 12 Forschungsresultate
+#### körperlich
 
-* Räumliche Leistung beim Hormontherapie zur Geschlechtsumwandlung wird nur bei FzM Gruppe besser
-* Kognitive Geschlechtsunterschiede
-* Testosteron hat verkleinernden Effekt auf Größe des Hippocampus
-* Östradol hat vergrößernden Effekt auf Größe des Hippocampus
-* Testosteron führt zu einer Vergrößerung der Amygdala, am Ende der Pubertät haben Männer eine größere Amygdala als Frauen
-* Männer haben größeres Gehirnvolumen
-* Abwesenheit von sowohl männlichen als auch weiblichen Hormonen, wird das Kind zu einer Frau
+* Bis zur 6. Woche keine Unterschiede beim Embryo, es besitzt Gonaden
+  * Können zu Ovarien und Hoden werden
+
+* Jeder Embryo hat den Müller'schen & Wolff'schen Gang
+  * Müller'scher Gang wird zu weibl. Geschlechtsorganen
+  * Wolff'scher Gang wird zu männl. Geschlechtsorganen
+  * Ohne Geschlechtshormone (sowohl weib. als auch männl.), bildet sich ein
+    weibliches Embyo
+    * Webliche Form ist der Normalfall
+  * Bei genetisch männlichen Embryonen wird ab 6. Woche das SRY Gen aktiviert
+    * Dadurch wird das TDF Protein sythetisiert
+    * Dadurch werden Gonaden in Hoden umgewandelt
+    * Hoden erzeugen dann 2 Hormone
+      * Haben eine maskulinisierende Wirkung
+      * Anti-Müller-Hormon, löst den Müller'schen Gang auf. Defeminisierende
+        Wirkung
+      * Androgene, das wichtigste ist Testosteron
+    * Wolff'scher Gang hat Rezeptoren für Androgene
+      * Aktivierung sorgt dafür, dass dieser Gang nicht ebenfalls aufgelöst
+        wird
+      * Stattdessen wird er zu den inneren männlichen Geschlechtsorganen
+        umgewandelt
+    * Dihydrotestosteron: Wird aus Testosteron gebildet, auch ein Androgen
+      * Wandelt äußere Anlagen in Geschlechtsorgane um (Penis und Skrotum)
+
+* Androgenresistenz
+  * Sorgt für weibliches Erscheinungsbild bei Männern
+  * Wolff'scher Gang kann nicht aktiviert werden
+    * Müller'scher und Wolff'scher Gang und große Teile der männl.
+      Geschlechtsorgane lösen sich auf
+  * Äußeren Geschlechtsorgane entwickeln sich bei Abwesenheit von Androgenen zu
+    weiblicher Form
+  * In der Pubertät wird eine größere Menge Testosteron produziert
+    * Wird zu Östradiol umgewandelt
+    * Sorgt für breiteres Becken und Entwicklung der weiblichen Brust
+  * Vagina ist für Geschlechtverkehr zu kurz und wird oft chirugisch vertieft
+  * Fühlen sich häufig als Frau
+  * Können sich nicht reproduzieren
+
+#### neuronal
+
+* Ab Geburt gibt es Geschlechtunterschiede
+  * Morphologisch: Jungen haben größeres Gehirn
+  * Sexualhormone sorgen während der Pubertät für geschlechtsspezifisches
+    Verhalten und verändern den Körper
+    * Testosteron sorgt für eine Vergrößerung der Amygdala
+      * Am Ende der Pubertät haben Männer eine größere Amygdala als Frauen
+    * Testosteron lässt Hippocampus kleiner werden
+    * Östradiol lässt Hippocampus größer werden
+  * Bildgebende Verfahren zeigen kein geschlechtsspezifisches Gehirn
+    * sondern bestimmte Kombinationen, die bei Männern btw. Frauen etwas
+      häufiger vorkommen
+
+* Hirnfunktionsmechanismen "aktivierend" und "organisierend" (veraltetes Modell)
+  * Organisierend: Während der Hirnentwicklung organisieren Sexualhormone die
+    Schaltkreise im Gehirn
+  * Aktivierend: Nach Abschluss der Hirnentwicklung aktivieren oder dämpfen
+    Sexualhormone nur noch etablierte Schaltkreise, sie werden aber nicht mehr
+    verändert
+  * Veraltetes Modell, deren Begriffe nur noch für ineinander übergehende
+    Prozesse benutzt werden
+    * Gehirn verändert sich ein Leben lang
+
+* Schrumpfen des Gehirnvolumens nach der Pubertät durch Abbau synaptischer Kontakte in grauer Substanz, die sich nicht bewährt haben
+  * Selbsterklärend
+
+* Hirnentwicklung bei Mädchen schneller als bei Jungen
+  * Jungen haben ein größeres Hirnvolumen
+    * Kann nur teilweise vom höheren Körpergewicht abgeleitet werden
+  * Organisation von Gehirnvolumen und Neuronenanzahl ist geschlechtsdimorph
+
+* Abbau der Konnektivität des Gehirns und Verschiebung in Richtung frontaler und temporaler Schaltkreise
+  * Kann Geschlechtsunterschiede in der Architektur der intracorticalen
+    Verbindungen aufweise
+  * Männer haben höhere Gesamtdistanz und niedrigere Gesamtkonnektivität
+    * Das größere Volumen und die höhere Anzahl an Zellen sorgen für einen
+      höheren Energieaufwand bei gleichzeitig geringerer Effizient
+  * Die Verbindungsmuster von Frauen haben eine höhrere Fehlertoleranz
+
+* Neuronale Unterschiede lassen keine Rückschlüsse auf unterschiedliche
+  Leistungen und Denkmuster ziehen
+  * Vielleicht Stategie- statt Leistungsunterschiede
+
+#### kognitiv
+
+* Starke kognitive Unteschiede:
+  * Mentale Rotation
+    * Männer besser bei räumlichen Aufgaben bei denen Objekte im Geist rotiert
+      werden müssen
+  * Schlussfolgern Mechanik
+    * Männer besser bei räumlichen Aufgaben, bei denen die Rotationen von
+      Objekten in Verbindung gesetzt werden müssen
+
+* Schwache kognitive Unterschiede:
+  * Räumliche Vorstellung
+    * Männer haben leichte Vorteile bei räumlichen Denkprozessen
+  * Sprachliche Textverfahren
+    * Frauen haben leichte Vorteile
+  * Wahrnehmungsgeschwindigkeit sprachlicher Textverfahren
+    * Frauen haben leichte Vorteile
+
+* Keine/Minimale Unterschiede
+  * Textverstehen
+  * Redemenge
+  * Mathematische Problemlösefähigkeit
+    * Allerdings haben Männer eine höhere Selbstsicherheit
+    * Und Frauen eine höhere Ängstlichkeit
+
+* Sowohl biologische und soziokulturelle Gründe für kognitiver Geschlechtsunterschiede
+  * Wenn Frauen weniger Anteilnahme an der Politik haben, konnte man einen
+    Vorteil bei Matheaufgaben bei Jungen feststellen
+  * Frauen sind beim Lesen besser als in Algebra
+  * Frauen sind in Algebra besser als in Geometrie
+  * Trotz unterschiedlicher Kulturen gibt es eine geschlechtsspezifische
+    Rangordnung bei den Fächern
+    * Könnte biologische Ursachen haben
+
+* Frauen haben während der Menstruation auf grund von höherem
+  Testosteronspiegel eine signifikant bessere Leistung bei dreidimensionalen
+  Rotationsaufgaben
+
+* Geschlechtsidentitätsstörung
+  * Wenn Menschen das Gefühl haben im falschen Körper zu sein
+  * Kinder zeigen spielverhalten des anderen Geschlechts
+  * Wird bei Mädchen öfter toleriert als bei Jungs, wodurch es dort häufiger zu
+    mobbing und höherem Druck durch die Eltern kommt
+
+* Geschlechtsumwandlung
+  * Durch Hormontherapie
+    * Medikamentös Menstruation unterbinden & gabe von Testosteron für Frauen
+    * Anti-Androgene und Östradiol für Männer
+  * Durch Operation
+    * Enferhnung der Eierstöcke kann man die Produktion weiblicher
+      Sexualhormone verringern
+
+* Räumliche Leistung beim Hormontherapie zur Geschlechtsumwandlung
+  * wird nur bei FzM Gruppe besser
+  * bleibt bei MzF Gruppe gleich
+
+* Affengeschlecht und geschlechtsspezifische Auswahl von Menschenspielzeug
 
 ### Kapitel 12 Definitionen
 
-* Androgene
-* Androgenresistenz
-* Androgenrezeptoren
-* Anti-Müller-Hormon
-* Dihydrotestosteron
-* Genetiches Geschlecht
-* Genexpression
-* Geschlechtsidentitätsstörung
-* Gonaden
-* Kognitives Geschlecht
-* Körperliches Geschlecht
-* Müller'scher Gang
-* Neuronales Geschlecht
-* Ovarien
-* Östradiol
-* SRY-Gen
-* Schlussfolgern Mechanik
 * Skrotum
+  * Hodensack
 * TDF-Hormon
+  * Dadurch werden Gonaden in Hoden umgewandelt
 * Testis-dominierender Faktor (S. 244)
+  * SRY Gen produziert TDF-Hormon, wandelt Gonaden zu Hoden um
 * Testosteron
-* Wolff'scher Gang
