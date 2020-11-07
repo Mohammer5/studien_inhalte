@@ -145,7 +145,7 @@
 * Refraktärzeit
 * Ruhepotenzial
 * Tetrodotoxin
-  * @TODO
+  * Schließt die Natrium-Kanäle der Nervenzellen
 * Zellmembran
 
 ## Kapitel 3
@@ -218,7 +218,8 @@
   * Komponente des Systems der Basalganglien ist. Die Nigrostriatalbahn benutzt Dopamin als Neurotransmitter
   * Wichtig für Willkürmotorik
 * Botunilumtoxin
-  * @TODO
+  * Zerstört Präsynapsen im Bereich der Injektion
+  * Daurt 3-4 Monate bis die Präsynapsen nachwachsen
 * Exzitatorisches postsynaptisches Potenzial (EPSP)
   * Depolarisierendes Potenzial
 * Inhibitorisches postsynaptisches Potenzial (IPSP)
@@ -228,17 +229,24 @@
     * Konzentrieren sich auf 2 Kerne des Gehirns, einer ist Nucleus Basalis
     * Projizieren mit langen Fastertrakten in fast alle Bereiche des Gehirns
 * Neurotransmitter: Acetylcholin
+  * Ist ein Amin
 * Neurotransmitter: Dopamin
   * Ist ein Amin (Katecholamin)
 * Neurotransmitter: Exzitatorisch
 * Neurotransmitter: GABA-a
-  * @TODO
+  * Ist eine Aminosäure
+  * Öffnet Cl- Kanäle
+  * Gleicht einströmendes Na+ aus
 * Neurotransmitter: GABA-b
-  * @TODO
+  * Ist eine Aminosäure
+  * Öffnet K+ Kanäle
+  * Sorgt für IPSP
 * Neurotransmitter: Glutamat
+  * Ist eine Aminosäure
 * Neurotransmitter: Inhibitorisch
 * Neurotransmitter: Oxytocin
-  * @TODO
+  * Ist ein Peptid / Protein
+  * Metabotrop
 * Nucleus Basalis von Meynert
   * Produziert Acetylcholin
   * Befindet sich im frontalen, basalen Telencephalon
@@ -575,18 +583,23 @@
 ---
 
 * Arachnoidea
-  * @TODO
+  * "Spinnengewebshaut"
+  * Aufgebaut wie eine Tropfsteinhöhle. Säulenartige Gebilde gehen von der
+    Decke bis zum Boden.
+  * Beinhaltet Liquor cerebrospinalis
+  * Reduziert das Gewicht des Gehirns
 * Brodmann Areale
 * Dura Mater
-  * @TODO
+  * "Harte Mutter"
+  * Schützt Gehirn vor mechanischen Einwirkungen
 * Falten des Cortex
   * Für mehr Oberfläche -> Größere Rinde
 * Gonadotropin-Releasing-Hormon (GnRH)
-  * @TODO
+  * Siehe "Hypophyse"
 * Gyrus
-  * @TODO
+  * Auswölbungen des Cortex
 * Liquor cerebrospinalis
-  * @TODO
+  * Flüssigkeit in der Arachnoidea
 * Ludwig Edinger (S 78f)
 * Melatonin
 * Muskeltonus
@@ -594,15 +607,17 @@
     einer Muskelgruppe
 * Nucleus caudatus
 * Oxytocin
-  * @TODO
+  * Siehe "Neurohypophyse"
 * Pia Mater
-  * @TODO
+  * "Fromme Mutter"
+  * Sehr Dünn
+  * Folgt den Windungen des Cortex
 * Sulcus
-  * @TODO
+  * Einwölbungen des Cortex
 * Vasopressin
   * Siehe Kapitel 11
 * Vigilanz
-  * @TODO
+  * Zustand andauernder Aufmerksamkeit bei eintöniger Reizfrequenz
 * Zentrales Nervensystem
   * Gehirn und Rückenmark
   * Gegenteil: Peripheres Nervensystem
@@ -716,10 +731,31 @@
   * Dadurch ist die Landkarte der Sinne verzerrt, weil wichtige Regionen
     überrepräsentiert werden
 
+* Aufmerksamkeitsverschiebung
+  * Pyramidialneuron sitzt im Cortex und projiziert zum PMT des Tegmentum
+  * Normalerweise wird es von GABAergen Neuronen gehemmt
+  * Auch im Thalamus ist ein GABAerges Neuron, dass das dortige Neuron hemmt,
+    welches sensorische Signale an den Cortex weitergeben würde
+  * Das Neuron im PMT würde, wenn es aktiv wäre, das GABAerge Neuron im
+    Thalamus hemmen und die sensorische Nervenzelle aktivieren
+    * Das tut es aber nicht, weil das Pyramidialneuron des Cortex, das die
+      Zelle im PMT aktiviert, selbst von einem GABAergen Neuron im Cortex
+      gehemmt wird
+  * Bei einer Erwähnung, z. B. des Fußes, wird das GABAerge Neuron gehemmt
+    * Dadurch kann das GABAerge Neuron nicht mehr das Pyramidialneuron hemmen
+    * Das Pyramidialneuron aktiviert dann ein Neuron im PMT des Tegmentum
+    * Das Neuron im PMT aktiviert das sensorische Neuron und hemmt das Neuron,
+      im Thalamus, das das sensorische Neuron gleichzeitig hemmen würde
+    * Dadurch gelangen sensorische Informationen des Fußes in den Cortex und
+      somit in das Bewusstsein
+
 ### Kapitel 5 Definitionen
 
 * Agnosie (visuell)
-  * @TODO
+  * Unter visueller Agnosie versteht man eine Störung der Verarbeitung von
+    visuellen Impulsen durch das Gehirn. Die Patienten können visuelle Reize
+    mit ihrem Sehorgan normal wahrnehmen, Gesichter oder Objekte aber nicht
+    mehr erkennen. [doccheck.com](https://flexikon.doccheck.com/de/Visuelle_Agnosie)
 * Bulbus olfactorius
 * Cortex piriformis
 * Fovea
@@ -740,22 +776,24 @@
 * Primärsensorische Areale
 * Prämotorische Areale
 * Pyramidenbahn
-  * @TODO
+  * Siehe oben, "Aufmerksamkeitsverschiebung"
 * Retinotopie
-  * @TODO
+  * "Als Retinotopie bezeichnet man die Abbildung von der Retina auf bestimmte Nervenzellareale des Gehirns"
+  * Visuelle Landkarte
 * Reziprok
-  * @TODO
+  * aufeinander einwirkend
+  * wechselseitig
 * Riechkolben
 * Sensorische Landkarte
 * Siebbein
 * Somatosensorisches System
 * Sulcus calcarinus
-  * @TODO
+  * Teil des Occipitalcortex, in dem der primäre visuelle Cortex ist
 * Tor zum Bewusstsein (ist Thalamus)
   * Fast alle Sinne müssen durch den Thalamus und werden dort entweder gehemmt
     oder gestärt, deswegen der Name
 * Transkranielle Magnetstimulation
-  * @TODO
+  * "Die transkranielle Magnetstimulation (transkraniell in etwa „durch den Schädel“), kurz TMS, ist eine Technologie, bei der mit Hilfe starker Magnetfelder Bereiche des Gehirns sowohl stimuliert als auch gehemmt werden können." [Wikipedia](https://de.wikipedia.org/wiki/Transkranielle_Magnetstimulation)
 * Verarbeitungspfade der primären sensorischen Areale
 * fMRT
 * retinotop
@@ -854,12 +892,30 @@
 * Elektroenzephalogramm
 * Ensembles
 * Gyrus cinguli
-  * @TODO
+  * Eigenwahrnehmung von Schmerzen (bei Emphathie)
+    * Brodmann Areal 24 das am meisten beteiligte Area
 * Hebbsche Lernregel
   * Siehe Furchtkonditionierung
-* LFP
-  * @TODO
-* Lokales Feldpotenzial
+* Lokales Feldpotenzial (LFP)
+  * Kann mit bildgebenden Verfahren sichtbar gemacht werde
+  * Lokale Feldpotentiale ( LFP ) sind transiente elektrische Signale, die in
+    Nerven- und anderen Geweben durch die summierte und synchrone elektrische
+    Aktivität der einzelnen Zellen (z. B. Neuronen) in diesem Gewebe erzeugt
+    werden. LFP sind "extrazelluläre" Signale, was bedeutet, dass sie durch
+    vorübergehende Ungleichgewichte der Ionenkonzentrationen in den Räumen
+    außerhalb der Zellen erzeugt werden, die aus der elektrischen Aktivität der
+    Zellen resultieren. LFP sind "lokal", weil sie von einer Elektrode in der
+    Nähe der Erzeugungszellen aufgezeichnet werden. Aufgrund des
+    Inverse-Square-Gesetzes können solche Elektroden Potentiale nur in einem
+    räumlich begrenzten Radius "sehen". Sie sind "Potentiale", weil sie durch
+    die Spannung erzeugt werden, die sich aus der Ladungstrennung im
+    extrazellulären Raum ergibt. Sie sind "Feld", weil diese extrazellulären
+    Ladungstrennungen im Wesentlichen ein lokales elektrisches Feld erzeugen.
+    LFP werden typischerweise mit einer hochohmigen Mikroelektrode
+    aufgezeichnet, die sich inmitten der Population von Zellen befindet, die
+    sie erzeugen. Sie können beispielsweise aufgezeichnet werden, über eine
+    Mikroelektrode im platziert Gehirn eines betäubten Tieres oder in einer in
+    vitro Gehirn dünne Scheibe
 
 ## Kapitel 7
 
@@ -984,9 +1040,9 @@
 ### Kapitel 7 Definitionen
 
 * Amnesie: Anterograd
-  * @TODO
+  * Neue Gedächtnisinhalte können nicht mehr generiert werden
 * Amnesie: Retrograd
-  * @TODO
+  * Man kann nicht mehr alle Erinnerungen der Vergangenheit abrufen
 * Gedächtnis: Arbeitsgedächtnis
 * Gedächtnis: Deklaratives
 * Gedächtnis: Episodisches
@@ -999,11 +1055,13 @@
 * Gedächtnis: Semantisches
 * Henry Gustav Molaison
 * Konfabulation
-  * @TODO
+  * produktion objektiv falscher Aussagen
+  * entsteht durch fehlerhafte Wahrnehmung oder Fehlfunktion des Gedächtnisses
 * Multiple Trace Theory
 * REM-Schlaf
 * Ribotsche Kurve
-  * @TODO
+  * Kurve des Gedächtnisverlustes nach einer Hirnschädigung
+  * Seite 145
 * Slow-Wave-Schlaf
 * Standard-Konsolidierungs-Theorie
 * Wissen
@@ -1154,7 +1212,9 @@
 * Nucleus Interpositus
 * Parallelfasern
 * Parkinson Erkrankung
-  * @TODO
+  * Können keine neuen impliziten Gedächtnisinhalte bilden
+  * Keine dopaminerge Rückmeldung im Striatum, wodurch dessen Neurone weder
+    über Erfolg noch Misserfolg informiert werden können
 * Pontine Kerne
 * Prozedurales Gedächtnis (Definition & Eigenschaften)
 * Purjekinzellen
@@ -1451,11 +1511,12 @@
 * Intrakanelle elektrische Selbststimulation
 * James Olds
 * Nucleus accumbens
-  * @TODO
-* Opponen-Process-Theorie
-  * @TODO
+  * Striatum
+  * Teil des mesolibischen Systems
+* Opponent-Process-Theorie
+  * a- und b-Prozess
 * Pawlowsche Konditionierung
-  * @TODO
+  * Hund, Glocke
 * Ventrales Striatum
 
 ## Kapitel 11
