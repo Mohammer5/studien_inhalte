@@ -257,4 +257,428 @@
 * Stäbchen kommen nicht in der Fovea vor, sind gleichmäßig verteilt und sind
   insgesamt mit weniger Ganglienzellen verbunden
   * Kann bereits schwache Lichtsignale entdecken
-S. 29
+* S. 29
+
+###### Hell- und Dunkeladaption
+
+* Beschreibt das Wechseln von einem hellen in einen dunklen Raum (und vice
+  versa)
+  * Hell zu dunkel
+    * Zuerst sieht man gar nichts
+    * Biochemische Vorgängen in den Stäbchen müssen Sehfarbstoffe in den
+      Ausgangszustand bringen
+    * Während der ersten 5 Minuten ist das Zapfensehen für das Sehen
+      verantwortlich
+    * Dann kommt es zum Kohlrauschknickt, Stäbchen- sind ab diesem Zeitpunkt
+      empfindlicher als Zapfensystem
+    * Nach 30 Minuten ist die maximale Empindlichkeit erreicht
+  * Dunkel zu hell
+    * Man ist kurz geblendet
+* Beide Systeme kalibrieren sich bei Aufenthalt in Wahrnehmungsumwelten, sie
+  ermüden nicht
+* S. 30
+
+###### Kohlrausch-Knick
+
+* Ist lediglich ein Zeitpunkt während der Dunkeladaption, bei dem die
+  Empfindlichkeit des Stäbchensystems wieder die des Zapfensystems überholt
+* S. 30
+
+###### Adaption
+
+* Wiederholte Reize mit gleichem Stimulus führen zu Abnahme der Reizantwort.
+  Adaption ist die Neukalibrierung um das Wahrnehmungssystem auf
+  Umweltgegebenheiten anzupassen.
+* S. 30
+
+#### Kapitel 2 2.3 Von der Netzhaut zum Gehirn
+
+1. Elektrische Signale wandern über den Sehnerv in Richtung Gehirn
+1. Kurz vor dem Gehirn verzweigen sich biede Sehnerven und bilden das **Chiasma
+   Opticum**
+1. Die wichtigste Komponente der Sehbahn verläuft über den im Thalamus
+   liegenden **Kniehöcker (Corpus geniculatum laterale, CGL)** zum primären
+   visuellen Kortex (V1) im Okzipitalkortex
+1. Visuelle Signale werden im Areal V1 und in angrenzenden Arealen V2-V5 (V5 =
+   mediotemporaler Kortex; MT) analysiert
+1. Zwei Hauptpfade der visuellen Verarbeitung im Cortex
+   1. Dorsal, zum Parietalcortex
+   1. Ventral, zum Temporalcortex
+   * Beide führen zum Frontalcortex
+   * Frontalcortex ist für komplexe Entscheidungsvorgänge und
+     Handslungssteuerung zuständig
+1. Ein weiterer Pfad von V1: Zum **Colliculus superior**, das visuelle Zentrum
+   des Mittelhirns
+   * Wichtig bei Umsetzung visueller Informationen in Blick- und
+     Orientierungsbewegungen
+1. Das linke CGL erhält Informationen aus rechtem Auge und vice versa
+  * Im visuellen Kortex werden Informationen kombiniert
+  * Jede Gehirnhälfte bleibt zuständig für Informationen aus dem
+    gegenüberliegenden (kontralateralen) Feld
+* S. 33
+
+![Von der Netzhaut zum Gehirn](./assets/Chiasma-Opticum__CGL__Auge.jpg)
+
+###### Chiasma Opticum
+
+* Stelle der Verzweigung der Sehnerven
+* S. 33
+
+###### Kniehöcker (CGL, Corpus geniculatum laterale)
+
+* Liegt im Thalamus
+* Projiziert zu V1
+* S. 33
+
+###### Collicullus superior
+
+* Im Mittelhirn
+* Wichtig bei Umsetzung visueller Informationen in Blick- und
+  Orientierungsbewegungen
+* S. 33
+
+#### Kapitel 2 2.4 Grundprinzipien der visuellen Verarbeitung
+
+* S. 34
+
+###### Konvergenz & Divergenz
+
+* Es gibt mehr Photorezeptorzellen als Fasern im Sehnerv, deswegen gibt es die
+  "konvergente Verschaltung"
+* **Konvergente Verschiegung**: Eine kortikale Zelle ist für einen ganzen
+  Ausschnitt verantwortlich
+  * Mehrere Signale werden auf einer kortikalen Zelle zusammengeführt
+* **Rezeptives Feld**: Ist das visuelle Feld, für das eine kortikale Zelle
+  verantwortliche ist (s. o.)
+* **Divergente Verarbeitungs**: Es gibt viel mehr Zellen, die für die
+  Verarbeitung jedes bestimmten rezeptiven Felds. 
+  * Die Verarbeitung eines rezeptiven Felds wird geteilt und in mehreren
+    kortikalen Neuronen durchgeführt
+* S. 34
+
+###### Multiple Karten des visuellen Felds
+
+* Jeder Bereich der Retine hat einen entsprechenden Bereich im CGL, im primären
+  visuellen Kortex und in den höheren visuellen Arealen
+* Benachbarte Bereiche der Retina sind auch an den anderen Orten benachbart,
+  woraus eine Karte entsteht: **retinotope Karte**
+  * Jede Karte ist auf eine Reizeigenschaft spezialisiert, z. B. Farbe, Form,
+    Tiefe oder Bewegung
+* S. 34
+
+###### Spezialisierte Verarbeitungspfade
+
+* Der **ventrale Verarbeitungspfad** über den Temporallappen
+  * Ist für Objekterkennung und Aufbau einer bewussten Repräsentation der Welt
+    zuständig
+* Der **dorsale Verarbeitungspfad** über den Parietallappen
+  * Ist für Lokalisation von Reizen - vor allem relativ zum Körper -
+    spezialisiert.
+  * Ermöglicht schnelles Übersetzen visueller Informationen in gezielte
+    motorische Bewegungen
+* S. 34
+
+#### Kapitel 2 2.5 Konvergenz und Divergenz
+
+* Rezeptive Felder retinaler Ganglienzellen:
+  * sind kreisförmig
+  * weisen eine Zentrum-Umfeld-Organisation auf
+* **Klassisches rezeptives Feld**: Ausschnitt der für die Erregung sorgt
+* **Modernes rezeptives Feld**: Außerdem genaue Reizeigenschaften und Reize
+  außerhalb d. klassischen Felds, die Verarbeitungseigenschaften der Zelle
+  beeinflussen können
+* S. 34
+
+###### On-Center und Off-Center-Zellen
+
+* Hälfte der Ganglienzellen sind On-Center
+* On-Center-Zellen
+  * werden erregt, wenn Licht ins Zentrum eines rezeptiven Felds fällt
+  * werden gehemmt, wenn das Licht ins Umfeld fällt
+* Off-Center-Zellen
+  * werden erregt, wenn Lichts in Umfeld fällt
+  * werden gehemmt, wenn Licht ins Zentrum eines rezeptiven Felds fällt
+* Ein gleichzeitiges Belichten des Zentrums und Umfelds löst höchstens eine
+  minimale Erregung aus, da Erregung und Hemmung sich aufheben
+* Größe von Zentrum und Umfeld:
+  * Durchmesser der Feldzentren sind einige Bogenminuten
+  * In der Peripherie 3-5 Grad Sehwinkel
+* Die Zentrumumfeld-Struktur der Ganglienzellen dient der Verstärkung von
+  lokalen Bildkontrasten.
+  * Benachbarte Ganglienzellen hemmen sich gegenseitig
+* S. 35
+
+###### Sehwinkel & Bogenminuten
+
+* 1 Grad Sehwinkel in Relation zur Retina ist in etwa die Breite des
+  Zeigefingers in Relation zur Armlänge
+* 1 Grad sind 60 Bogenminuten
+* S. 35
+
+###### Laterale Hemmung
+
+* Die laterale Hemmung bezeichnet ein allgemeines Verschaltungsprinzip im
+  Gehirn
+  * Nach diesem hemmen sich benachbarte Zellen oder Zellen mit ähnlichen
+    Verarbeitungseigenschaften wechselseitig
+  * Es dient der Verstärkung von lokalen Kontrasten
+    * Weil die wiederholte Brechung und Streuung des Lichts im optischen
+      Apparat alle Objekte nur unscharf projiziert werden können
+S. 35
+
+###### Der kortikale Vergrößerungsfaktor
+
+* Das Missverhältnis der Repräsentation von Fovea und Peripherie ist notwendig,
+  da eine gleichmäßige Repräsentation einen riesigen Kortex benötigen würde
+  * Ein hochauflösendes Bild konzentriert sich auf einem kleinen Bereich
+  * Durch ein komplexes System auf Kopf- und Augenbewegungen kann trotzdem
+    jeder Teil des sichbaren Bereichs analysiert werden
+* S. 36
+
+###### Rezeptive Felder im primären visuellen Komplex (V1)
+
+* In V1 antworten die Neurone nur schwach / nicht auf punktförmige Lichtreize
+  * Sie reagieren allerdings sehr stark auf kurze Lichtstreifen
+* S. 37
+
+* Es gibt 3 Typen von Neuronen
+  1. Einfache Zelle
+    * Besitzen längliche rezeptive Felder mit einer erregenden Zone in der
+      Mitte und flankierenden hemmenden Zonen
+    * **Tuning-Kurve** der Zelle: Je besser die Orientierung des Reizes der
+      Orientierung des rezeptiven Feldes entspricht, desto stärker fällt die
+      Antwort der Zelle aus
+    * Entstehen durch eine einfache Zusammenschaltung rinförmiger rezeptiver
+      Felder
+    * S. 37
+  2. Komplexe Zellen
+    * Reagieren selektiv auf Reize einer bestimmten Orientierung
+    * Lage der rezeptiven Felder ist irrelevant (müssen also nicht orientiert
+      sein)
+    * Entstehen durch einfache Zusammenschaltung einfacher Zellen (s. o.) mit
+      gemeinsamer Orientierung
+    * S. 38
+  3. Endinhibierte bzw. hyperkomplexe Zellen
+    * Antworten auf Streifen, Ecken oder Winkel einer bestimmten Länge, die
+      sich in einer bestimmten Richtung über ihr rezeptives Feld bewegen
+    * S. 38
+
+##### Kapitel 2 2.5.1 Die Organisation von V1: Windmühlen und Eiswürfel
+
+###### Orientierungssäulen
+
+* Der primäre visuelle Kortex besteht aus sechs Schichten
+  * Eine ist die **Eingangsschicht**
+  * Eine ist die **Ausgangsschicht**
+* Übereinanderliegende Zellen der Schichten haben die selben rezeptiven Felder
+  * Sie besitzen ähnliche Orientierungsselektivität
+  * Wird Orientierungssäule genannt
+* Neveneinanderliegende Orientierungssäulen sind für ähnliche Orientierung
+  zuständig
+* Haben eine regelmäßige windmühlenartige Anordung um ein in der Mitte
+  liegendes Zentrum
+* **Augendominanzsäulen**: Etwa die Hälfte der Neurone haben eine deutliche
+  Präferenz für das linke oder rechte Auge
+* S. 38
+
+###### Eiswürfelmodell
+
+* Spezialisierte Säulensysteme ergeben eine einfache, bauklotzartige Struktur
+  * Diese wird Eiswürfelmodell genannt
+* Nach diesem Modell kann man den V1 in Hypersäulen unterteilen
+  * Hypersäulen esteht aus zwei Augendominanzsäulen, für jeweils links und
+    rechts
+    * Enthalten jeweils einen vollständigen Satz an Orientierungssäulen
+      (Windmühlenflügel für alle möglichen Richtungen)
+  * Ist ein kleineres Verarbeitungsmodul, das für einen bestimmten Ausschnitt
+    des visuellen Felds verantwortlich ist
+  * Hat die Kapazität, die Orientierung und Bewegungsrichtung einer Kontur in
+    diesem kleinen Bildausschnitt zu bestimmen
+* S. 38
+
+#### Kapitel 2 2.6 Multiple Karten des visuellen Felds
+
+* S. 39
+
+##### Kapitel 2 2.6.1 Gehirn als Atlas
+
+* S. 39
+
+###### Retinotope Karten
+
+* Benachbarte Ganglienzellen haben stark überlappende rezeptiver Felder
+  * Diese projizieren an benachbarte Zellen im CGL
+  * Abbildung ist retinotop -> stellt eine räumliche Abbildung des optischen
+    Bilds auf der Retina dar
+* S. 39
+
+###### Konturen und Scheinkonturen
+
+* Verarbeitung vn Form, Bewegung und Farbe wird in V2 und V3 fortgesetzt
+* in V2: Hat die ersten Zellen, die sowohl auf echte, als auch auf
+  Scheinkontueren reagieren
+  * Konturen verschiedener Strukturen könenn zu einer gemeinsamen Kontaktlinie
+    zusammengefasst und sinnvoll forgesetzt werden
+* S. 39
+
+![Scheinkonturen](./assets/Scheinkonturen.jpg)
+
+###### Die Areale V4 und MT (V5)
+
+* V4 spielt eine entscheidende Rolle bei der Wahrnehmung von Formen und Farben
+  * Enthält viele farb- und orientierungsspezifische Zellen, die zum Teil
+    selektiv auf komplexe geometrische Muster ansprechen
+* V5: @TODO(missing): In Notizen steht nichts über V5/MT an dieser Stelle
+* S. 40
+
+##### Kapitel 2 2.6.2 Rekurrente Verarbeitung
+* S. 40
+
+###### Netzwerke von Arealen (V1, V2, etc)
+
+* Verarbeitung über mehrere Areale ist nicht unidirektional
+  * Informationen werden vorwärts ("**feedforward**") und rückwärts
+    ("**feedback**") geschickt
+  * Sorgt für Verarbeitungsschleifen (= rekurrente Verarbeitungsschleifen)
+* Verarbeitungsschleifen sorgen dafür, dass komplexe Informationen schnell den
+  anderen Arealen ebenfalls zur Verfügung stellen
+* V1 ist eine Art Verteilerstation, die die Informationen der anderen Areale
+  Zusammenfasst und weitergibt
+* S. 40
+
+###### Änderung von Verarbeitungseigenschaften über Zeit
+
+* Zellen des primären visuellen Kortex können ihre Kodierungseigenschaften
+  ändern, schon während sie noch dabei sind auf einen Reiz zu reagieren
+  * Wenn eine Zelle in V1 auf einen bestimmten Reiz zu reagieren beginne, hängt
+    die Reaktion nur von der Orientierung ab
+  * Nach 100ms hängt die Reaktion auch davon ab, ob der Reiz Teil einer Figur
+    oder Teil eines Hintergrunds ist
+* Diese Informationen bekommt V1 von den höheren Arealen
+* S. 41
+
+###### Fazit
+
+* Die Karten sind durch rekurrente Beziehungen verknüpft und tauschen ständig
+  Informationen aus, sodass dieselben Zellen zu unterschiedlichen Zeitpunkten
+  der Verarbeitung unterschiedliche Funktionen übernehmen können
+* S. 41
+
+#### Kapitel 2 2.7 Spezialisierte Verarbeitungspfade
+
+##### Kapitel 2 2.7.1 Cirpus geniculatum laterale (CGL)
+
+###### Die wichtigsten Nervenbahnen
+
+* Signalweitergabe vom CGL zum V1, aber auch von V1 zum Thalamus
+  * Auch hier bilden sich rekurrente Verarbeitungsschleifen
+* Der Thalamus projiziert zum Rückenmark, Hirnstamm, Kleinhirn und weiteren
+  Arealen
+  * Thalamus spielt eine wichtige Rolle bei Aufmerksamkeitsregulierungen und
+    der Integration von Informationen verschiedener Sinnesmodalitäten
+* S. 41
+
+###### Magno-, Parvo-, M- & P-Zellen
+
+* CGL besteht aus 6 schichten
+  * 3 für jedes Auge
+* Jede Schicht hat eine vollständige retinotope Karte
+  * Alle Karten passen genau übereinander
+* Die relativ großen Zellen der beiden inneren Schichten werden
+  **Magno-Zellen** genannt
+* Die kleineren Zellen der äußeren Schichten werden **Parvo-Zellen** genannt
+* Eine entsprechende Unterscheidung findet sich bereits in der Retina
+  * Dort gibt es **M-** und **P-Zellen**
+* **M-** und **Magno-Zellen**
+  * weisen große rezeptive Felder auf
+  * sind nahezu farbunempfindlich
+  * liefern schnelle, kurz anhaltende Signale, die wichtig für die Analyse
+    visueller Bewegungsinformationen sind
+* **P-** und **Parvo-Zellen**
+  * Haben eine entscheidende Rolle beim hochauflösenden Sehen von Form & Farbe
+* S. 41f
+
+##### Kapitel 2 2.7.2 Dorsaler und ventraler Strom: Haben wir 2 visuelle Systeme?
+
+* S. 42
+
+###### Separate Verarbeitungsströme
+
+* Existenz zweier visueller Verarbeitungsströme mit unterschiedlichen
+  Funktionen ist heute weitergehend unstrittig
+* Der ventrale Strom ("Was-Pfad") ist für die Erkennung von visuellen Objekten
+  zuständig
+* Der dorsale Pfad ("Wo-Pfad") ist für die Lokalisation von Objekten zuständig
+* Dorsaler und ventraler Pfad sind nicht komplett unabhängig, da sie auf
+  gemeinsame Areale zurückgreifen (S. 43)
+* S. 42
+
+###### Der ventrale Strom
+
+* Der ventrale Strom ("Was-Pfad") ist für die Erkennung von visuellen Objekten
+  zuständig
+* Von V1 über V4 in den Temporallappen
+* Entlang des Pfades werden die rezeptiven Felder immer größer
+  * Die Zellen am Ende reagieren auf Gesichter oder Gebäude
+    * Manche Zellen sind so spezialisiert, dass sie nur auf bestimmte Gesichter
+      reagieren
+  * Ist mit dem Hippocampus verknüpft, das für das Einspeichern von
+    Informationen ins Langzeitgedächtnis verantwortlich ist
+* S. 42
+
+###### Der ventrale Strom
+
+* Der ventrale Strom ("Was-Pfad") ist für die Erkennung von visuellen Objekten
+  zuständig
+* Von V1 über V4 in den Temporallappen
+* Entlang des Pfades werden die rezeptiven Felder immer größer
+  * Die Zellen am Ende reagieren auf Gesichter oder Gebäude
+    * Manche Zellen sind so spezialisiert, dass sie nur auf bestimmte Gesichter
+      reagieren
+  * Ist mit dem Hippocampus verknüpft, das für das Einspeichern von
+    Informationen ins Langzeitgedächtnis verantwortlich ist
+* S. 42
+
+###### Der dorsale Strom
+
+* Der dorsale Pfad ("Wo-Pfad") ist für die Lokalisation von Objekten zuständig
+* Ist damit beschäftigt, die Position von Reizen in verschiedenen räumlichen
+  Referenzsystemen auszudrücken
+  * z. B. relativ zur Hand, Kopfrichtung oder Blickachse
+* Wertet visuelle Informationen aus, um visuell geleitete Körperbewegungen zu
+  steuern
+  * Da Reize in Relation zu Teilen des Körpers gesetzt werden, deren POsition
+    sich aber ständig ändern
+    * Muss schneller als der verntrale Strom sein, da visuelle Reize praktisch
+      in "Echtzeit" verarbeitet werden müssen
+  * Das Ergebnis ist das morotische Handeln
+* S. 42f
+
+###### Doppeldissoziation
+
+* Läsionen des ventralen Stroms können zu Agnosie führen
+  * Unfähigkeit bestimmte Objekte zu erkennen ("**Prosopagnosie**")
+  * Verlust des Farbensehens ("**cerebrale Achromatopsie**")
+* Lösionen des dorsalen Stroms führen zu Einschränkungen bei komplexen
+  visomotorischen Ausührungen
+  * z. B. zielgerichtetes Zeigen, Kontrolle von Körperorientierung im Raum oder
+    effizientes Greifen von Gegenständen ("**optische Ataxie**")
+* S. 43
+
+###### Fallbeispiel: Patientin D. F.
+
+* Schäden im ventralen Strom durch Kohlenmonoxidvergiftung
+* Hatte **Objekterkennungsagnosie**: War nicht in der Lage Objekte zu
+  identifizieren oder zu beschreiben
+  * Konnte Orientierung eines drehbaren Briefschlitzes nicht angeben. Weder
+    verbal noch pantomimisch
+* Spontane visomotische Fähigkeiten warn intakt
+  * Sie onnte spontan und fehlerfrei einen Bried in den Briefschlitz stecken
+* Patienten mit Läsionen am dorsalen Pfad haben das umgekehrte Problem
+  * Können Orientierung des Briefschlitzes perfekt beschreiben.
+  * Es braucht mehrere Versuche um den Brief einzustecken
+* S. 44
+
+#### Kapitel 2 2.8 Spezifische Wahrnehmungsleistung
+
+* S. 45
