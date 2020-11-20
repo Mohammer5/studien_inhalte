@@ -749,5 +749,90 @@ S. 35
 ###### Absorptionsspektren
 
 * Retine besitzt drei Arten von Zapfen
-  * Reagieren auf unterschiedliche Wellenlängen
+  * Reagieren auf unterschiedliche Wellenlängen-Bereiche
+    * = Ihr **Absorptionsspektrum**
+* **K-Zapfen**/**S-Zapfen**: Reagueren auf kurz-welliges Licht
+  * K = kurz, S = short
+* **M- & L-Zapfen**: mittel- und langweilliges Licht
+* Die Absorptionsspektren überlappen stark
+  * Vor allem die der M- und L-Zapfen
 * S. 49
+
+###### Univarianzprinzip
+
+* Wir können so viele Farben unterscheiden, wie wir Aktibitätsmuster der K-, M-
+  und L-Zapfen auseianderhalten können
+  * z. B. Aktivität im Verhältnis 4:2:1 oder 1:3:4
+* Führen zwei physikalisch unterschiedliche Lichtmischungen zum selben
+  Aktivitätsmuster, z. B. 1:3:2, sehen die Lichter farblich identisch aus
+  * **metamere Farben**
+* Gilt nur für isolierte Farbreize unter konstanten Sichtbedingungen
+* S. 49
+
+###### Konkurrierende Theorien
+
+* Thomas Young & Hermann von Helmholtz: Zur Mischung einer Farbe aus dem
+  Lichtspektrum benötigt man im Allgemeinen drei Farben verschiedener
+  Wellenlängen
+  * Führte zur Idee, dass Farbwahrnehmumg auf drei unterschiedlichen
+    Rezeptortypen basieren könnte
+* Ewald Hering: Es gebe drei Gegenfarb-Mechanismen:
+  * schwarz-weiß
+  * rot-grün
+  * blau-gelb
+  * reagieren auf die jeweils entgegengesetzt auf Licht unterschiedlicher
+    Intensität und Wellenlänge
+* S. 50
+
+###### Gegenfarbkanäle
+
+* Man konnte die Absorptionsspektren der drei Sehfarbstoffe bestimmen
+* Hering's Theorie nicht ganz richtig
+  * Es gibt aber trotzdemGegenfarbkanäle auf der Ebene der Ganglienzellen der
+    Retina
+* Ganglienzellen unterscheiden sich darin, wie sie die Information aus den
+  K-, M- und L-Zapfen verknüpfen
+* Dabei ergeben sich drei Gegenfarbkanäle, die auch auf Ebene des CGL noch
+  getrennt bleiben
+* **Rot-Grün-Kanal**
+  * vergleicht die Aktivität der Mittel- und Langwellen-Zapfen
+  * **L minus M**
+  * Aus dieser Differenz lässt sich ablesen, ob ein Reiz eher dem roten oder
+    eher dem grünen Bereich des Lichtspektrums zuzuordnen ist
+* **Blau-Geld-Kanal**
+  * fasst die M- und L-Signale zusammen und vergleich diese durch
+    Differenzbildung mit der Aktivität der K-Zapfen
+  * **K minus (L plus M)**
+  * So lässt sich ablesen, ob ein Reiz eher dem blauen oder dem gelben Bereich
+    des Lichspektrums zuzuordnen ist
+* **Hell-Dunkel-Kanal**
+  * fasst die Signale der M- und L-Zapfen zusammen
+  * **L plus M**
+  * Maß für die wahrgenommene Helligkeit (Brightness) eines Reizes
+* S. 50f
+
+###### Wer kann welche Farben sehen?
+
+* Unter den Säugetieren sind die Primaten die einzigen, die drei Zapfentypen
+  haben
+  * Evolutionärer Vorteil ist unklar
+  * Es gibt einige Nicht-Säugetierarten, die drei Farbstoffe besitzen (z. B.
+    Goldfisch)
+* Rot-Grün-Blind: Ca. 2% aller Männer, ca. 0.4% aller Frauen
+  * M- und L-Zapfen sitzen auf dem X-Chromosom, von dem Männer nur eines
+    besitzen
+* S. 51
+
+###### Psychologie trifft Technologie: Farbräume und Farbtechnologien
+
+* Die wichtigsten Beschreibungssysteme unterscheiden zwischen den drei
+  Dimensionen Farbwert, Luminanz und Sättigung.
+* **Farbwert**: Ist einfach die Lage der Farbe im Farbkreis (z. B. rot, grün,
+  blau)
+* **Luminanz**: Beschreibt die Intensität des farbigen Lichts
+* **Sättigung**: beschreibt, wie stark der Anteil von weißen LIcht an der Farbe
+  ist
+* **Spektralfarbe**: enhält kein weißen Licht und hat maximale Sättigung
+* **Pasteltöne**: haben einen hohen Anteil von weißem Licht und dadurch eine
+  geringe Sättigung
+* S. 51f
