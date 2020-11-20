@@ -682,3 +682,72 @@ S. 35
 #### Kapitel 2 2.8 Spezifische Wahrnehmungsleistung
 
 * S. 45
+
+##### Kapitel 2 2.8.1 Helligkeit
+
+###### Physikalische Größen: Illuminanz, Luminanz, Reflektanz
+
+* **Illuminanz (I)**: Intensität des Lichts, welches auf ein Objekt trifft
+* **Luminanz (L)**: Lichtmenge, die nach der Reflektion des Objekts das Auge
+  erreicht
+* **Reflektanz (R)**: Der Prozentsatz des einfallenden Lichts, das von der
+  Oberfläche des Objekts reflektiert wird
+* **Formel**: L = I * R
+* S. 45
+
+###### Psychologische Größen: Lightness und Brightness
+
+* **Brightness**: Wahrgenommene Luminanz einer Oberfläche
+* **Lightness**: Wahrgenommene Reflektanz einer Oberfläche
+* S. 45
+
+###### Helligkeitskonstanz
+
+* Ist die Wahrnehmung gleichbleibender Lightness trotz wechselnder Beleuchtung
+* **Adelsons Schachbrett-Illusion**
+  * Schachbrett (5x5) mit Zylinder, der auf einem Bereich des Bretts einen
+    Schatten wirft
+  * Alle schwarzen bzw. weißen Felder haben die gleiche Reflektanz
+    * = den gleichen Farbton
+  * Im Schatten des Zylinders ist die Illuminanz geringer
+  * Die im Schatten liegenden Kacheln scheinen dennoch die gleiche Farbe wie
+    die nicht im Schatten liegenden Farben zu haben
+    * Die im Schatten liegenden Felder haben eine andere Brightness, aber die
+      selbe Lightniss
+    * Die tatsächliche Luminanz der weißen Felder im Schatten etnspricht der
+      der schwarzen Fehlder außerhalb des Schattens
+  * Illusion beruht darauf, dass das visuelle System das von der Überfläche
+    eintreffende Licht nicht als absolute Größe interpretiert
+    * sondern relativ zu den im Reiz erkennbaren Beleuchtungsverhältnissen
+* S. 46
+
+![Adelsons Schachbrett Illusion](./assets/Adelsons_Schachbrett_Illusion.jpg)
+
+###### Transparenzwahrnehmung
+
+* Transparente Flächen wirken als Filter, die unterschiedliche Lichtmengen
+  durchlassen
+  * Das hidurchtretende Licht ist ein Kompromiss zwischen der ursprünglichen
+    Lichtquelle und dem Transparenzfilter
+* Ein dunkler Filter reduziert die Luminanz aller Lichter um einen konstanten
+  Wert (z. B. 50%; z. B. eine Sonnenbrille)
+* Ein heller Filter komprimiert die Spannweite der Liminanz ebenfalls
+  * Zusätzlich hebt er dunkle Luminanzen an, weswegen schwarze Flächen grau
+    erscheinen
+* S: 47
+
+###### Kontrast
+
+* Beruht auf dem Verhältnis von Luminanz
+* Ein dunkler Filter verringert alle Luminanzen, aber der Kontrast bleibt
+  gleicht
+* Sonnenschein erzeigt einen höheren Kontrast als Mondliche
+* S. 48
+
+##### Kapitel 2 2.8.2 Farbe
+
+###### Absorptionsspektren
+
+* Retine besitzt drei Arten von Zapfen
+  * Reagieren auf unterschiedliche Wellenlängen
+* S. 49
