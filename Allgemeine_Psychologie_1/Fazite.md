@@ -2,6 +2,32 @@
 
 ## 2 Wahrnehmung
 
+**S. 94**<br />
+* Die wahrnehmung verschiedener Aspekte der Umwelt ermoeglicht es Organismen,
+  zielgerichtet auf aeusserer Ereignisse zu reagieren und so auf die Umwelt
+  einzuwirken.
+* Das Gehirn bestzt spezialisierte Verarbeitungspfade fuer die verschiedenen
+  Sinnesmodalitaeten (z. B. Sehen und Hoeren) und auch fuer verschiedene
+  Merkmale innerhalb der Sinnesmodalitaeten dz. B. Farbe und Bewegung)
+* Die Verarbeitung is ausserdem durch Konvergenz und Divergenz der Verschaltung
+  gekennzeichnet, was zur Entstehung von rezeptiven Feldern mit bestimmten
+  Verarbeitungseigenschaften fuehrt.
+* Ein weiteres Merkmal ist die Bildung von multiplen Karten in den
+  verschiedenen Sinnessystemen, welche nach Art eines modernen Atlanten die
+  Aufschluesselung der Reize nach bestimmten Merkmalen erlauben (z. B.
+  retinotop, tonotop oder somatotop).
+* Eine wichtige Vorraussetzung der Erkenneung von Szenen und Objekten ist die
+  sinnvolle Gruppierung der verschiedenen Reizelemente, die sich mithilfe der
+  Gestaltgesetze der Wahrnehung beschreiben laesst.
+* Bei Synaestheten koennen die Empfindungen die Sinnesmodalitaeten kreuzen,
+  sodass z. B. musikalische Klaenge auch visuelle Bilder hervorrufen.
+* Wahrnehmung und Handlung haengen eng miteinander zusammen. Wahrnehmung
+  beeinflusst motorische Handlungen ueber Feedback- und
+  Feedforward-Mechanismen, die haeufig in Form von Regelkreisen organisiert
+  sind. Handlung und bewusste Wahrnehmung koennen auf unterschiedlichen
+  Visuellen Informationen beruhen und voneinander dissoziiert sein, z. B. bei
+  der Ausfuehrung von Hand- oder Aufgenbewegungen.
+
 ### 2.1 Psychophysik
 
 Die Psychophysik verwendet verschiedene Methoden, um physikalische Reize in
@@ -152,9 +178,42 @@ atlasartige Organisastion in **tonotopen Karten** sowie durch die Existenz
 spezialiserter Verarbeitungspfade fuer verschiedene Arten von Schallereignissen
 gepraegt.
 
+#### 2.3.5 Spezifische Wahrnehmungsleistungen
+
+**S. 79**<br />
+Lautheit und Tonhoehe sind psychologische Groessen und muessen von
+physikalischen Eigenschaften des Schalls streng unterschieden werden. Die
+**Lautheit haengt vor allem von der Amplitude einer Schallwelle ab**, die
+**Tonhoehe vor allem von ihrere Frequenz**. Das auditive System erfasst die
+Tonhoehe ueber eine Doppelstrategie, naemlich durch **Ortskodierung auf der
+Basilarmembran der Chochlea** und durch **Volleykodierung in den
+Aktivitaetsraten auditiver Zellen**.  Unser Gehoer ist besonders sensitiv fuer
+Frequenzen im Bereich der gesprochenen Sprache. Schallquellen koennen durch die
+Analyse von Laufzeit-, Amplituden- und Frequenzunterschieden an den beiden
+Ohren lokalisiert werden. Physikalische und psychologische Prinzipien der
+Schallwahrnehmung bestimmen gemeinsam die Eigenschaften von Tonleitern und
+Musikinstrumenten. Fuer die Wahrnehmung von auditiven Figuren, z. B. Melodien,
+lassen sich **aehnliche Gestaltgesetze formulieren wie fuer die visuelle
+Wahrnumung**.
+
 ### 2.4 Gleichgewicht & Propriozeption
 ### 2.5 Taktile Sinne
 ### 2.6 Chemische Sinne
+
+**S. 84**<br />
+Der Gleichgewichtssinn funktioniert nach dem Prinzip einer Wasserwaage; dabei
+werden **Rotations- und geradlinige Beschleunigungen getrennt erfasst**. Die
+Haut enthaelt verschiedene Arten von mechanischen Rezeptorzellen, die
+verschiedene Aspekte taktiler Reize sowie Temperatur und Schmerz signalisieren
+koennen. Auch bei der taktilen Wahrnehmung ziegt sich wieder das Prinzip der
+Kartenbildung, diesmal in Form eine Abbilds der KOerperoberflaeche im
+somatosensorischen Kortex (**somatotope Abbildung**). Der Geschmackssinn
+kodiert verschiedene Geschmacksreize ueber leicht unterschiedliche
+Antwortprofile in den Geschmacksrezeptoren der Zunge; ohne Geruchssin ist aber
+kein intensives und komplexes Geschmaksempfinden moeglich. Der Geruchssinn
+funktioniert ueber Eiweissmolekuele der Riechschleimhaut, die auf ganz
+bestimmte Geruchsstoffe spezialisiert sind.
+
 ### 2.7 Synaesthesie
 ### 2.8 Wahrnehmung & Handlung
 
